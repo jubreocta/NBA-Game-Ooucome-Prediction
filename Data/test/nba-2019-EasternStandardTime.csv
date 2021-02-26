@@ -1,0 +1,1231 @@
+Round Number,Date,Location,Home Team,Away Team,Result
+1,22/10/2019 20:00,Scotiabank Arena,Toronto Raptors,New Orleans Pelicans,130 - 122
+1,22/10/2019 22:30,Staples Center,LA Clippers,Los Angeles Lakers,112 - 102
+1,23/10/2019 19:00,Spectrum Center,Charlotte Hornets,Chicago Bulls,126 - 125
+1,23/10/2019 19:00,Bankers Life Fieldhouse,Indiana Pacers,Detroit Pistons,110 - 119
+1,23/10/2019 19:00,Amway Center,Orlando Magic,Cleveland Cavaliers,94 - 85
+1,23/10/2019 19:30,Barclays Center,Brooklyn Nets,Minnesota Timberwolves,126 - 127
+1,23/10/2019 19:30,AmericanAirlines Arena,Miami Heat,Memphis Grizzlies,120 - 101
+1,23/10/2019 19:30,Wells Fargo Center,Philadelphia 76ers,Boston Celtics,107 - 93
+1,23/10/2019 20:30,American Airlines Center,Dallas Mavericks,Washington Wizards,108 - 100
+1,23/10/2019 20:30,AT&T Center,San Antonio Spurs,New York Knicks,120 - 111
+1,23/10/2019 21:00,Vivint Smart Home Arena,Utah Jazz,Oklahoma City Thunder,100 - 95
+1,23/10/2019 22:00,Talking Stick Resort Arena,Phoenix Suns,Sacramento Kings,124 - 95
+1,23/10/2019 22:00,Moda Center,Portland Trail Blazers,Denver Nuggets,100 - 108
+1,24/10/2019 19:00,Little Caesars Arena,Detroit Pistons,Atlanta Hawks,100 - 117
+1,24/10/2019 20:00,Toyota Center,Houston Rockets,Milwaukee Bucks,111 - 117
+1,24/10/2019 22:30,Chase Center,Golden State Warriors,LA Clippers,122 - 141
+1,25/10/2019 19:00,TD Garden,Boston Celtics,Toronto Raptors,112 - 106
+1,25/10/2019 19:00,Spectrum Center,Charlotte Hornets,Minnesota Timberwolves,99 - 121
+1,25/10/2019 19:30,Barclays Center,Brooklyn Nets,New York Knicks,113 - 109
+1,25/10/2019 20:00,FedExForum,Memphis Grizzlies,Chicago Bulls,102 - 110
+1,25/10/2019 20:00,Smoothie King Center,New Orleans Pelicans,Dallas Mavericks,116 - 123
+1,25/10/2019 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Washington Wizards,85 - 97
+1,25/10/2019 21:00,Pepsi Center,Denver Nuggets,Phoenix Suns,108 - 107
+1,25/10/2019 22:00,Golden 1 Center,Sacramento Kings,Portland Trail Blazers,81 - 113
+1,25/10/2019 22:30,Staples Center,Los Angeles Lakers,Utah Jazz,95 - 86
+1,26/10/2019 17:00,Fiserv Forum,Milwaukee Bucks,Miami Heat,126 - 131
+1,26/10/2019 19:00,Little Caesars Arena,Detroit Pistons,Philadelphia 76ers,111 - 117
+1,26/10/2019 19:30,State Farm Arena,Atlanta Hawks,Orlando Magic,103 - 99
+1,26/10/2019 19:30,Madison Square Garden,New York Knicks,Boston Celtics,95 - 118
+1,26/10/2019 20:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Indiana Pacers,110 - 99
+1,26/10/2019 20:00,United Center,Chicago Bulls,Toronto Raptors,84 - 108
+1,26/10/2019 20:00,Toyota Center,Houston Rockets,New Orleans Pelicans,126 - 123
+1,26/10/2019 20:30,AT&T Center,San Antonio Spurs,Washington Wizards,124 - 122
+1,26/10/2019 21:00,Vivint Smart Home Arena,Utah Jazz,Sacramento Kings,113 - 81
+1,26/10/2019 22:00,Talking Stick Resort Arena,Phoenix Suns,LA Clippers,130 - 122
+1,27/10/2019 15:30,Chesapeake Energy Arena,Oklahoma City Thunder,Golden State Warriors,120 - 92
+1,27/10/2019 18:00,FedExForum,Memphis Grizzlies,Brooklyn Nets,134 - 133
+1,27/10/2019 19:00,American Airlines Center,Dallas Mavericks,Portland Trail Blazers,119 - 121
+1,27/10/2019 19:00,Target Center,Minnesota Timberwolves,Miami Heat,116 - 109
+1,27/10/2019 21:30,Staples Center,Los Angeles Lakers,Charlotte Hornets,120 - 101
+1,28/10/2019 19:00,Little Caesars Arena,Detroit Pistons,Indiana Pacers,96 - 94
+1,28/10/2019 19:00,Madison Square Garden,New York Knicks,Chicago Bulls,105 - 98
+1,28/10/2019 19:30,State Farm Arena,Atlanta Hawks,Philadelphia 76ers,103 - 105
+1,28/10/2019 19:30,Scotiabank Arena,Toronto Raptors,Orlando Magic,104 - 95
+1,28/10/2019 20:00,Toyota Center,Houston Rockets,Oklahoma City Thunder,116 - 112
+1,28/10/2019 20:00,Fiserv Forum,Milwaukee Bucks,Cleveland Cavaliers,129 - 112
+1,28/10/2019 20:00,Smoothie King Center,New Orleans Pelicans,Golden State Warriors,123 - 134
+1,28/10/2019 20:30,AT&T Center,San Antonio Spurs,Portland Trail Blazers,113 - 110
+1,28/10/2019 22:00,Talking Stick Resort Arena,Phoenix Suns,Utah Jazz,95 - 96
+1,28/10/2019 22:00,Golden 1 Center,Sacramento Kings,Denver Nuggets,94 - 101
+1,28/10/2019 22:30,Staples Center,LA Clippers,Charlotte Hornets,111 - 96
+1,29/10/2019 19:30,AmericanAirlines Arena,Miami Heat,Atlanta Hawks,112 - 97
+1,29/10/2019 21:00,Pepsi Center,Denver Nuggets,Dallas Mavericks,106 - 109
+1,29/10/2019 22:30,Staples Center,Los Angeles Lakers,Memphis Grizzlies,120 - 91
+1,30/10/2019 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Chicago Bulls,117 - 111
+1,30/10/2019 19:00,Amway Center,Orlando Magic,New York Knicks,95 - 83
+1,30/10/2019 19:00,Wells Fargo Center,Philadelphia 76ers,Minnesota Timberwolves,117 - 95
+1,30/10/2019 19:30,TD Garden,Boston Celtics,Milwaukee Bucks,116 - 105
+1,30/10/2019 19:30,Barclays Center,Brooklyn Nets,Indiana Pacers,108 - 118
+1,30/10/2019 19:30,Scotiabank Arena,Toronto Raptors,Detroit Pistons,125 - 113
+1,30/10/2019 20:00,Capital One Arena,Washington Wizards,Houston Rockets,158 - 159
+1,30/10/2019 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Portland Trail Blazers,99 - 102
+1,30/10/2019 22:00,Vivint Smart Home Arena,Utah Jazz,LA Clippers,110 - 96
+1,30/10/2019 22:00,Golden 1 Center,Sacramento Kings,Charlotte Hornets,111 - 118
+1,30/10/2019 22:30,Chase Center,Golden State Warriors,Phoenix Suns,110 - 121
+1,31/10/2019 19:00,State Farm Arena,Atlanta Hawks,Miami Heat,97 - 106
+2,31/10/2019 21:30,Smoothie King Center,New Orleans Pelicans,Denver Nuggets,122 - 107
+2,31/10/2019 22:30,Staples Center,LA Clippers,San Antonio Spurs,103 - 97
+2,01/11/2019 19:00,Barclays Center,Brooklyn Nets,Houston Rockets,123 - 116
+2,01/11/2019 19:00,Bankers Life Fieldhouse,Indiana Pacers,Cleveland Cavaliers,102 - 95
+2,01/11/2019 19:00,Amway Center,Orlando Magic,Milwaukee Bucks,91 - 123
+2,01/11/2019 19:30,TD Garden,Boston Celtics,New York Knicks,104 - 102
+2,01/11/2019 20:00,United Center,Chicago Bulls,Detroit Pistons,112 - 106
+2,01/11/2019 21:30,American Airlines Center,Dallas Mavericks,Los Angeles Lakers,110 - 119
+2,01/11/2019 22:00,Golden 1 Center,Sacramento Kings,Utah Jazz,102 - 101
+2,01/11/2019 22:30,Chase Center,Golden State Warriors,San Antonio Spurs,110 - 127
+2,02/11/2019 17:00,Chesapeake Energy Arena,Oklahoma City Thunder,New Orleans Pelicans,115 - 104
+2,02/11/2019 19:00,Little Caesars Arena,Detroit Pistons,Brooklyn Nets,113 - 109
+2,02/11/2019 19:00,Amway Center,Orlando Magic,Denver Nuggets,87 - 91
+2,02/11/2019 20:00,Capital One Arena,Washington Wizards,Minnesota Timberwolves,109 - 131
+2,02/11/2019 20:00,FedExForum,Memphis Grizzlies,Phoenix Suns,105 - 114
+2,02/11/2019 20:00,Fiserv Forum,Milwaukee Bucks,Toronto Raptors,115 - 105
+2,02/11/2019 20:30,Chase Center,Golden State Warriors,Charlotte Hornets,87 - 93
+2,02/11/2019 22:00,Moda Center,Portland Trail Blazers,Philadelphia 76ers,128 - 129
+2,03/11/2019 17:00,Bankers Life Fieldhouse,Indiana Pacers,Chicago Bulls,108 - 95
+2,03/11/2019 18:00,AmericanAirlines Arena,Miami Heat,Houston Rockets,129 - 100
+2,03/11/2019 18:00,Madison Square Garden,New York Knicks,Sacramento Kings,92 - 113
+2,03/11/2019 19:00,AT&T Center,San Antonio Spurs,Los Angeles Lakers,96 - 103
+2,03/11/2019 19:30,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Dallas Mavericks,111 - 131
+2,03/11/2019 21:00,Staples Center,LA Clippers,Utah Jazz,105 - 94
+2,04/11/2019 19:00,Capital One Arena,Washington Wizards,Detroit Pistons,115 - 99
+2,04/11/2019 19:30,Barclays Center,Brooklyn Nets,New Orleans Pelicans,135 - 125
+2,04/11/2019 20:00,FedExForum,Memphis Grizzlies,Houston Rockets,100 - 107
+2,04/11/2019 20:00,Target Center,Minnesota Timberwolves,Milwaukee Bucks,106 - 134
+2,04/11/2019 21:00,Talking Stick Resort Arena,Phoenix Suns,Philadelphia 76ers,114 - 109
+2,04/11/2019 22:30,Chase Center,Golden State Warriors,Portland Trail Blazers,127 - 118
+2,05/11/2019 19:00,Spectrum Center,Charlotte Hornets,Indiana Pacers,122 - 120
+2,05/11/2019 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Boston Celtics,113 - 119
+2,05/11/2019 19:30,State Farm Arena,Atlanta Hawks,San Antonio Spurs,108 - 100
+2,05/11/2019 20:00,United Center,Chicago Bulls,Los Angeles Lakers,112 - 118
+2,05/11/2019 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Orlando Magic,102 - 94
+2,05/11/2019 21:00,Pepsi Center,Denver Nuggets,Miami Heat,109 - 89
+2,06/11/2019 19:00,Little Caesars Arena,Detroit Pistons,New York Knicks,122 - 102
+2,06/11/2019 19:00,Bankers Life Fieldhouse,Indiana Pacers,Washington Wizards,121 - 106
+2,06/11/2019 19:30,State Farm Arena,Atlanta Hawks,Chicago Bulls,93 - 113
+2,06/11/2019 19:30,Scotiabank Arena,Toronto Raptors,Sacramento Kings,124 - 120
+2,06/11/2019 19:30,Toyota Center,Houston Rockets,Golden State Warriors,129 - 112
+2,06/11/2019 20:00,FedExForum,Memphis Grizzlies,Minnesota Timberwolves,137 - 121
+2,06/11/2019 20:30,American Airlines Center,Dallas Mavericks,Orlando Magic,107 - 106
+2,06/11/2019 21:00,Vivint Smart Home Arena,Utah Jazz,Philadelphia 76ers,106 - 104
+2,06/11/2019 22:00,Staples Center,LA Clippers,Milwaukee Bucks,124 - 129
+3,07/11/2019 20:00,Spectrum Center,Charlotte Hornets,Boston Celtics,87 - 108
+3,07/11/2019 20:30,AT&T Center,San Antonio Spurs,Oklahoma City Thunder,121 - 112
+3,07/11/2019 21:00,Talking Stick Resort Arena,Phoenix Suns,Miami Heat,108 - 124
+3,07/11/2019 22:30,Staples Center,LA Clippers,Portland Trail Blazers,107 - 101
+3,08/11/2019 19:00,Bankers Life Fieldhouse,Indiana Pacers,Detroit Pistons,112 - 106
+3,08/11/2019 19:00,Amway Center,Orlando Magic,Memphis Grizzlies,118 - 86
+3,08/11/2019 19:00,Capital One Arena,Washington Wizards,Cleveland Cavaliers,100 - 113
+3,08/11/2019 19:30,State Farm Arena,Atlanta Hawks,Sacramento Kings,109 - 121
+3,08/11/2019 20:00,Target Center,Minnesota Timberwolves,Golden State Warriors,125 - 119
+3,08/11/2019 20:00,Smoothie King Center,New Orleans Pelicans,Toronto Raptors,104 - 122
+3,08/11/2019 20:30,American Airlines Center,Dallas Mavericks,New York Knicks,102 - 106
+3,08/11/2019 21:00,Pepsi Center,Denver Nuggets,Philadelphia 76ers,100 - 97
+3,08/11/2019 21:00,Vivint Smart Home Arena,Utah Jazz,Milwaukee Bucks,103 - 100
+3,08/11/2019 22:00,Moda Center,Portland Trail Blazers,Brooklyn Nets,115 - 119
+3,08/11/2019 22:30,Staples Center,Los Angeles Lakers,Miami Heat,95 - 80
+3,09/11/2019 17:00,AT&T Center,San Antonio Spurs,Boston Celtics,115 - 135
+3,09/11/2019 19:00,Spectrum Center,Charlotte Hornets,New Orleans Pelicans,110 - 115
+3,09/11/2019 20:00,United Center,Chicago Bulls,Houston Rockets,94 - 117
+3,09/11/2019 20:00,FedExForum,Memphis Grizzlies,Dallas Mavericks,122 - 138
+3,09/11/2019 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Golden State Warriors,114 - 108
+3,10/11/2019 15:30,Target Center,Minnesota Timberwolves,Denver Nuggets,98 - 100
+3,10/11/2019 18:00,Amway Center,Orlando Magic,Indiana Pacers,102 - 109
+3,10/11/2019 18:00,Wells Fargo Center,Philadelphia 76ers,Charlotte Hornets,114 - 106
+3,10/11/2019 19:00,Chesapeake Energy Arena,Oklahoma City Thunder,Milwaukee Bucks,119 - 121
+3,10/11/2019 19:30,Madison Square Garden,New York Knicks,Cleveland Cavaliers,87 - 108
+3,10/11/2019 20:00,Talking Stick Resort Arena,Phoenix Suns,Brooklyn Nets,138 - 112
+3,10/11/2019 21:00,Moda Center,Portland Trail Blazers,Atlanta Hawks,124 - 113
+3,10/11/2019 21:30,Staples Center,Los Angeles Lakers,Toronto Raptors,104 - 113
+3,11/11/2019 19:00,Little Caesars Arena,Detroit Pistons,Minnesota Timberwolves,114 - 120
+3,11/11/2019 19:30,TD Garden,Boston Celtics,Dallas Mavericks,116 - 106
+3,11/11/2019 19:30,AT&T Center,San Antonio Spurs,Memphis Grizzlies,109 - 113
+3,11/11/2019 20:00,Smoothie King Center,New Orleans Pelicans,Houston Rockets,116 - 122
+3,11/11/2019 22:30,Chase Center,Golden State Warriors,Utah Jazz,108 - 122
+3,11/11/2019 22:30,Staples Center,LA Clippers,Toronto Raptors,98 - 88
+3,12/11/2019 19:00,Bankers Life Fieldhouse,Indiana Pacers,Oklahoma City Thunder,111 - 85
+3,12/11/2019 19:00,Wells Fargo Center,Philadelphia 76ers,Cleveland Cavaliers,98 - 97
+3,12/11/2019 19:30,AmericanAirlines Arena,Miami Heat,Detroit Pistons,117 - 108
+3,12/11/2019 20:00,United Center,Chicago Bulls,New York Knicks,120 - 102
+3,12/11/2019 21:00,Pepsi Center,Denver Nuggets,Atlanta Hawks,121 - 125
+3,12/11/2019 21:00,Talking Stick Resort Arena,Phoenix Suns,Los Angeles Lakers,115 - 123
+3,12/11/2019 21:00,Vivint Smart Home Arena,Utah Jazz,Brooklyn Nets,119 - 114
+3,12/11/2019 22:00,Golden 1 Center,Sacramento Kings,Portland Trail Blazers,107 - 99
+3,13/11/2019 19:00,Spectrum Center,Charlotte Hornets,Memphis Grizzlies,117 - 119
+3,13/11/2019 19:00,Amway Center,Orlando Magic,Philadelphia 76ers,112 - 97
+3,13/11/2019 19:30,TD Garden,Boston Celtics,Washington Wizards,140 - 133
+3,13/11/2019 19:30,Toyota Center,Houston Rockets,LA Clippers,102 - 93
+3,13/11/2019 20:00,Target Center,Minnesota Timberwolves,San Antonio Spurs,129 - 114
+3,13/11/2019 22:00,Staples Center,Los Angeles Lakers,Golden State Warriors,120 - 94
+3,13/11/2019 22:00,Moda Center,Portland Trail Blazers,Toronto Raptors,106 - 114
+3,14/11/2019 18:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Miami Heat,97 - 108
+4,14/11/2019 20:00,Madison Square Garden,New York Knicks,Dallas Mavericks,106 - 103
+4,14/11/2019 20:00,Fiserv Forum,Milwaukee Bucks,Chicago Bulls,124 - 115
+4,14/11/2019 20:00,Smoothie King Center,New Orleans Pelicans,LA Clippers,132 - 127
+4,14/11/2019 21:00,Talking Stick Resort Arena,Phoenix Suns,Atlanta Hawks,128 - 112
+4,14/11/2019 22:30,Pepsi Center,Denver Nuggets,Brooklyn Nets,101 - 93
+4,15/11/2019 19:00,Spectrum Center,Charlotte Hornets,Detroit Pistons,109 - 106
+4,15/11/2019 19:00,Amway Center,Orlando Magic,San Antonio Spurs,111 - 109
+4,15/11/2019 20:00,Toyota Center,Houston Rockets,Indiana Pacers,111 - 102
+4,15/11/2019 20:00,FedExForum,Memphis Grizzlies,Utah Jazz,107 - 106
+4,15/11/2019 20:00,Target Center,Minnesota Timberwolves,Washington Wizards,116 - 137
+4,15/11/2019 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Philadelphia 76ers,127 - 119
+4,15/11/2019 22:30,Chase Center,Golden State Warriors,Boston Celtics,100 - 105
+4,15/11/2019 22:30,Staples Center,Los Angeles Lakers,Sacramento Kings,99 - 97
+4,16/11/2019 18:00,United Center,Chicago Bulls,Brooklyn Nets,111 - 117
+4,16/11/2019 19:00,Bankers Life Fieldhouse,Indiana Pacers,Milwaukee Bucks,83 - 102
+4,16/11/2019 19:30,Madison Square Garden,New York Knicks,Charlotte Hornets,102 - 103
+4,16/11/2019 20:00,AmericanAirlines Arena,Miami Heat,New Orleans Pelicans,109 - 94
+4,16/11/2019 20:00,Target Center,Minnesota Timberwolves,Houston Rockets,105 - 125
+4,16/11/2019 20:30,American Airlines Center,Dallas Mavericks,Toronto Raptors,110 - 102
+4,16/11/2019 20:30,AT&T Center,San Antonio Spurs,Portland Trail Blazers,116 - 121
+4,16/11/2019 22:30,Staples Center,LA Clippers,Atlanta Hawks,150 - 101
+4,17/11/2019 15:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Philadelphia 76ers,95 - 114
+4,17/11/2019 15:30,Golden 1 Center,Sacramento Kings,Boston Celtics,100 - 99
+4,17/11/2019 18:00,Amway Center,Orlando Magic,Washington Wizards,125 - 121
+4,17/11/2019 18:00,FedExForum,Memphis Grizzlies,Denver Nuggets,114 - 131
+4,17/11/2019 19:00,Smoothie King Center,New Orleans Pelicans,Golden State Warriors,108 - 100
+4,17/11/2019 21:30,Staples Center,Los Angeles Lakers,Atlanta Hawks,122 - 101
+4,18/11/2019 19:00,Madison Square Garden,New York Knicks,Cleveland Cavaliers,123 - 105
+4,18/11/2019 19:30,Barclays Center,Brooklyn Nets,Indiana Pacers,86 - 115
+4,18/11/2019 19:30,Scotiabank Arena,Toronto Raptors,Charlotte Hornets,132 - 96
+4,18/11/2019 20:00,United Center,Chicago Bulls,Milwaukee Bucks,101 - 115
+4,18/11/2019 20:00,Toyota Center,Houston Rockets,Portland Trail Blazers,132 - 108
+4,18/11/2019 20:30,American Airlines Center,Dallas Mavericks,San Antonio Spurs,117 - 110
+4,18/11/2019 21:00,Talking Stick Resort Arena,Phoenix Suns,Boston Celtics,85 - 99
+4,18/11/2019 21:00,Vivint Smart Home Arena,Utah Jazz,Minnesota Timberwolves,102 - 112
+4,18/11/2019 22:30,Staples Center,LA Clippers,Oklahoma City Thunder,90 - 88
+4,19/11/2019 20:00,FedExForum,Memphis Grizzlies,Golden State Warriors,95 - 114
+4,19/11/2019 20:00,Smoothie King Center,New Orleans Pelicans,Portland Trail Blazers,115 - 104
+4,19/11/2019 22:00,Golden 1 Center,Sacramento Kings,Phoenix Suns,120 - 116
+4,19/11/2019 22:30,Staples Center,Los Angeles Lakers,Oklahoma City Thunder,112 - 107
+4,20/11/2019 19:00,Wells Fargo Center,Philadelphia 76ers,New York Knicks,109 - 104
+4,20/11/2019 19:00,Capital One Arena,Washington Wizards,San Antonio Spurs,138 - 132
+4,20/11/2019 19:30,State Farm Arena,Atlanta Hawks,Milwaukee Bucks,127 - 135
+4,20/11/2019 19:30,Barclays Center,Brooklyn Nets,Charlotte Hornets,101 - 91
+4,20/11/2019 19:30,AmericanAirlines Arena,Miami Heat,Cleveland Cavaliers,124 - 100
+4,20/11/2019 19:30,Scotiabank Arena,Toronto Raptors,Orlando Magic,113 - 97
+4,20/11/2019 19:30,American Airlines Center,Dallas Mavericks,Golden State Warriors,142 - 94
+4,20/11/2019 20:00,United Center,Chicago Bulls,Detroit Pistons,109 - 89
+4,20/11/2019 20:00,Target Center,Minnesota Timberwolves,Utah Jazz,95 - 103
+4,20/11/2019 21:00,Pepsi Center,Denver Nuggets,Houston Rockets,105 - 95
+4,20/11/2019 22:00,Staples Center,LA Clippers,Boston Celtics,107 - 104
+5,21/11/2019 20:00,Fiserv Forum,Milwaukee Bucks,Portland Trail Blazers,137 - 129
+5,21/11/2019 22:30,Talking Stick Resort Arena,Phoenix Suns,New Orleans Pelicans,121 - 124
+5,22/11/2019 19:00,Little Caesars Arena,Detroit Pistons,Atlanta Hawks,128 - 103
+5,22/11/2019 19:00,Capital One Arena,Washington Wizards,Charlotte Hornets,125 - 118
+5,22/11/2019 19:30,Barclays Center,Brooklyn Nets,Sacramento Kings,116 - 97
+5,22/11/2019 20:00,Wells Fargo Center,Philadelphia 76ers,San Antonio Spurs,115 - 104
+5,22/11/2019 20:00,United Center,Chicago Bulls,Miami Heat,106 - 116
+5,22/11/2019 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Los Angeles Lakers,127 - 130
+5,22/11/2019 20:30,American Airlines Center,Dallas Mavericks,Cleveland Cavaliers,143 - 101
+5,22/11/2019 21:00,Pepsi Center,Denver Nuggets,Boston Celtics,96 - 92
+5,22/11/2019 21:00,Vivint Smart Home Arena,Utah Jazz,Golden State Warriors,113 - 109
+5,22/11/2019 22:30,Staples Center,LA Clippers,Houston Rockets,122 - 119
+5,23/11/2019 17:00,Target Center,Minnesota Timberwolves,Phoenix Suns,98 - 100
+5,23/11/2019 19:00,Spectrum Center,Charlotte Hornets,Chicago Bulls,115 - 116
+5,23/11/2019 19:00,Bankers Life Fieldhouse,Indiana Pacers,Orlando Magic,111 - 106
+5,23/11/2019 19:30,State Farm Arena,Atlanta Hawks,Toronto Raptors,116 - 119
+5,23/11/2019 19:30,Madison Square Garden,New York Knicks,San Antonio Spurs,104 - 111
+5,23/11/2019 19:30,Wells Fargo Center,Philadelphia 76ers,Miami Heat,113 - 86
+5,23/11/2019 20:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Portland Trail Blazers,110 - 104
+5,23/11/2019 20:00,FedExForum,Memphis Grizzlies,Los Angeles Lakers,108 - 109
+5,23/11/2019 20:30,Fiserv Forum,Milwaukee Bucks,Detroit Pistons,104 - 90
+5,23/11/2019 21:00,Vivint Smart Home Arena,Utah Jazz,New Orleans Pelicans,128 - 120
+5,24/11/2019 15:30,Toyota Center,Houston Rockets,Dallas Mavericks,123 - 137
+5,24/11/2019 18:00,Madison Square Garden,New York Knicks,Brooklyn Nets,101 - 103
+5,24/11/2019 18:00,Capital One Arena,Washington Wizards,Sacramento Kings,106 - 113
+5,24/11/2019 20:00,Pepsi Center,Denver Nuggets,Phoenix Suns,116 - 104
+5,24/11/2019 21:00,Staples Center,LA Clippers,New Orleans Pelicans,134 - 109
+5,25/11/2019 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Brooklyn Nets,106 - 108
+5,25/11/2019 19:00,Little Caesars Arena,Detroit Pistons,Orlando Magic,103 - 88
+5,25/11/2019 19:00,Bankers Life Fieldhouse,Indiana Pacers,Memphis Grizzlies,126 - 114
+5,25/11/2019 19:30,State Farm Arena,Atlanta Hawks,Minnesota Timberwolves,113 - 125
+5,25/11/2019 19:30,TD Garden,Boston Celtics,Sacramento Kings,103 - 102
+5,25/11/2019 19:30,AmericanAirlines Arena,Miami Heat,Charlotte Hornets,117 - 100
+5,25/11/2019 19:30,Scotiabank Arena,Toronto Raptors,Philadelphia 76ers,101 - 96
+5,25/11/2019 20:00,United Center,Chicago Bulls,Portland Trail Blazers,94 - 117
+5,25/11/2019 20:00,Fiserv Forum,Milwaukee Bucks,Utah Jazz,122 - 118
+5,25/11/2019 20:30,AT&T Center,San Antonio Spurs,Los Angeles Lakers,104 - 114
+5,25/11/2019 22:30,Chase Center,Golden State Warriors,Oklahoma City Thunder,97 - 100
+5,26/11/2019 20:30,American Airlines Center,Dallas Mavericks,LA Clippers,99 - 114
+5,26/11/2019 21:00,Pepsi Center,Denver Nuggets,Washington Wizards,117 - 104
+5,27/11/2019 19:00,TD Garden,Boston Celtics,Brooklyn Nets,121 - 110
+5,27/11/2019 19:00,Spectrum Center,Charlotte Hornets,Detroit Pistons,102 - 101
+5,27/11/2019 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Orlando Magic,104 - 116
+5,27/11/2019 19:00,Bankers Life Fieldhouse,Indiana Pacers,Utah Jazz,121 - 102
+5,27/11/2019 19:00,Wells Fargo Center,Philadelphia 76ers,Sacramento Kings,97 - 91
+5,27/11/2019 19:30,Scotiabank Arena,Toronto Raptors,New York Knicks,126 - 98
+5,27/11/2019 20:00,Toyota Center,Houston Rockets,Miami Heat,117 - 108
+5,27/11/2019 20:00,FedExForum,Memphis Grizzlies,LA Clippers,119 - 121
+5,27/11/2019 20:00,Fiserv Forum,Milwaukee Bucks,Atlanta Hawks,111 - 102
+5,27/11/2019 20:30,AT&T Center,San Antonio Spurs,Minnesota Timberwolves,101 - 113
+5,27/11/2019 21:00,Talking Stick Resort Arena,Phoenix Suns,Washington Wizards,132 - 140
+5,27/11/2019 21:30,Smoothie King Center,New Orleans Pelicans,Los Angeles Lakers,110 - 114
+5,27/11/2019 22:00,Moda Center,Portland Trail Blazers,Oklahoma City Thunder,136 - 119
+5,27/11/2019 22:30,Chase Center,Golden State Warriors,Chicago Bulls,104 - 90
+6,29/11/2019 12:00,Barclays Center,Brooklyn Nets,Boston Celtics,112 - 107
+6,29/11/2019 19:00,Little Caesars Arena,Detroit Pistons,Charlotte Hornets,107 - 110
+6,29/11/2019 19:00,Amway Center,Orlando Magic,Toronto Raptors,83 - 90
+6,29/11/2019 19:30,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Milwaukee Bucks,110 - 119
+6,29/11/2019 19:30,Madison Square Garden,New York Knicks,Philadelphia 76ers,95 - 101
+6,29/11/2019 20:00,Bankers Life Fieldhouse,Indiana Pacers,Atlanta Hawks,105 - 104
+6,29/11/2019 20:00,AmericanAirlines Arena,Miami Heat,Golden State Warriors,122 - 105
+6,29/11/2019 20:00,FedExForum,Memphis Grizzlies,Utah Jazz,94 - 103
+6,29/11/2019 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,New Orleans Pelicans,109 - 104
+6,29/11/2019 20:30,AT&T Center,San Antonio Spurs,LA Clippers,107 - 97
+6,29/11/2019 21:00,Talking Stick Resort Arena,Phoenix Suns,Dallas Mavericks,113 - 120
+6,29/11/2019 22:00,Moda Center,Portland Trail Blazers,Chicago Bulls,107 - 103
+6,29/11/2019 22:30,Staples Center,Los Angeles Lakers,Washington Wizards,125 - 103
+6,30/11/2019 17:00,Golden 1 Center,Sacramento Kings,Denver Nuggets,100 - 97
+6,30/11/2019 19:00,Wells Fargo Center,Philadelphia 76ers,Indiana Pacers,119 - 116
+6,30/11/2019 20:00,Toyota Center,Houston Rockets,Atlanta Hawks,158 - 111
+6,30/11/2019 20:00,Fiserv Forum,Milwaukee Bucks,Charlotte Hornets,137 - 96
+6,01/12/2019 15:00,Barclays Center,Brooklyn Nets,Miami Heat,106 - 109
+6,01/12/2019 15:30,Madison Square Garden,New York Knicks,Boston Celtics,104 - 113
+6,01/12/2019 15:30,Target Center,Minnesota Timberwolves,Memphis Grizzlies,107 - 115
+6,01/12/2019 16:00,Staples Center,Los Angeles Lakers,Dallas Mavericks,100 - 114
+6,01/12/2019 17:00,Little Caesars Arena,Detroit Pistons,San Antonio Spurs,132 - 98
+6,01/12/2019 17:00,Smoothie King Center,New Orleans Pelicans,Oklahoma City Thunder,104 - 107
+6,01/12/2019 18:00,Amway Center,Orlando Magic,Golden State Warriors,100 - 96
+6,01/12/2019 18:00,Scotiabank Arena,Toronto Raptors,Utah Jazz,130 - 110
+6,01/12/2019 22:30,Staples Center,LA Clippers,Washington Wizards,150 - 125
+6,02/12/2019 19:00,Spectrum Center,Charlotte Hornets,Phoenix Suns,104 - 109
+6,02/12/2019 19:00,Wells Fargo Center,Philadelphia 76ers,Utah Jazz,103 - 94
+6,02/12/2019 19:30,State Farm Arena,Atlanta Hawks,Golden State Warriors,104 - 79
+6,02/12/2019 20:00,FedExForum,Memphis Grizzlies,Indiana Pacers,104 - 117
+6,02/12/2019 20:00,Fiserv Forum,Milwaukee Bucks,New York Knicks,132 - 88
+6,02/12/2019 22:00,Golden 1 Center,Sacramento Kings,Chicago Bulls,106 - 113
+6,03/12/2019 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Detroit Pistons,94 - 127
+6,03/12/2019 19:00,Capital One Arena,Washington Wizards,Orlando Magic,120 - 127
+6,03/12/2019 19:30,Scotiabank Arena,Toronto Raptors,Miami Heat,110 - 121
+6,03/12/2019 19:30,Smoothie King Center,New Orleans Pelicans,Dallas Mavericks,97 - 118
+6,03/12/2019 20:30,AT&T Center,San Antonio Spurs,Houston Rockets,135 - 133
+6,03/12/2019 21:00,Pepsi Center,Denver Nuggets,Los Angeles Lakers,96 - 105
+6,03/12/2019 22:00,Staples Center,LA Clippers,Portland Trail Blazers,117 - 97
+6,04/12/2019 19:00,Spectrum Center,Charlotte Hornets,Golden State Warriors,106 - 91
+6,04/12/2019 19:00,Little Caesars Arena,Detroit Pistons,Milwaukee Bucks,103 - 127
+6,04/12/2019 19:00,Amway Center,Orlando Magic,Phoenix Suns,128 - 114
+6,04/12/2019 19:30,State Farm Arena,Atlanta Hawks,Brooklyn Nets,118 - 130
+6,04/12/2019 19:30,TD Garden,Boston Celtics,Miami Heat,112 - 93
+6,04/12/2019 20:00,United Center,Chicago Bulls,Memphis Grizzlies,106 - 99
+6,04/12/2019 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Indiana Pacers,100 - 107
+6,04/12/2019 20:30,American Airlines Center,Dallas Mavericks,Minnesota Timberwolves,121 - 114
+6,04/12/2019 21:00,Vivint Smart Home Arena,Utah Jazz,Los Angeles Lakers,96 - 121
+6,04/12/2019 22:00,Moda Center,Portland Trail Blazers,Sacramento Kings,127 - 116
+7,05/12/2019 19:00,Capital One Arena,Washington Wizards,Philadelphia 76ers,119 - 113
+7,05/12/2019 19:30,Madison Square Garden,New York Knicks,Denver Nuggets,92 - 129
+7,05/12/2019 19:30,Scotiabank Arena,Toronto Raptors,Houston Rockets,109 - 119
+7,05/12/2019 20:00,Smoothie King Center,New Orleans Pelicans,Phoenix Suns,132 - 139
+7,06/12/2019 19:00,Spectrum Center,Charlotte Hornets,Brooklyn Nets,104 - 111
+7,06/12/2019 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Orlando Magic,87 - 93
+7,06/12/2019 19:00,Little Caesars Arena,Detroit Pistons,Indiana Pacers,108 - 101
+7,06/12/2019 20:00,TD Garden,Boston Celtics,Denver Nuggets,108 - 95
+7,06/12/2019 20:00,AmericanAirlines Arena,Miami Heat,Washington Wizards,112 - 103
+7,06/12/2019 20:00,United Center,Chicago Bulls,Golden State Warriors,98 - 100
+7,06/12/2019 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Minnesota Timberwolves,139 - 127
+7,06/12/2019 20:30,Fiserv Forum,Milwaukee Bucks,LA Clippers,119 - 91
+7,06/12/2019 20:30,AT&T Center,San Antonio Spurs,Sacramento Kings,105 - 104
+7,06/12/2019 22:30,Moda Center,Portland Trail Blazers,Los Angeles Lakers,113 - 136
+7,07/12/2019 14:00,American Airlines Center,Dallas Mavericks,New Orleans Pelicans,130 - 84
+7,07/12/2019 19:30,Madison Square Garden,New York Knicks,Indiana Pacers,103 - 104
+7,07/12/2019 19:30,Wells Fargo Center,Philadelphia 76ers,Cleveland Cavaliers,141 - 94
+7,07/12/2019 20:00,Toyota Center,Houston Rockets,Phoenix Suns,115 - 109
+7,07/12/2019 22:00,Vivint Smart Home Arena,Utah Jazz,Memphis Grizzlies,126 - 112
+7,08/12/2019 15:00,Barclays Center,Brooklyn Nets,Denver Nuggets,105 - 102
+7,08/12/2019 17:00,Spectrum Center,Charlotte Hornets,Atlanta Hawks,107 - 122
+7,08/12/2019 18:00,AmericanAirlines Arena,Miami Heat,Chicago Bulls,110 - 105
+7,08/12/2019 18:00,Wells Fargo Center,Philadelphia 76ers,Toronto Raptors,110 - 104
+7,08/12/2019 18:00,Capital One Arena,Washington Wizards,LA Clippers,119 - 135
+7,08/12/2019 19:00,American Airlines Center,Dallas Mavericks,Sacramento Kings,106 - 110
+7,08/12/2019 21:00,Moda Center,Portland Trail Blazers,Oklahoma City Thunder,96 - 108
+7,08/12/2019 21:30,Staples Center,Los Angeles Lakers,Minnesota Timberwolves,142 - 125
+7,09/12/2019 19:00,Bankers Life Fieldhouse,Indiana Pacers,LA Clippers,99 - 110
+7,09/12/2019 19:30,TD Garden,Boston Celtics,Cleveland Cavaliers,110 - 88
+7,09/12/2019 20:00,United Center,Chicago Bulls,Toronto Raptors,92 - 93
+7,09/12/2019 20:00,Toyota Center,Houston Rockets,Sacramento Kings,118 - 119
+7,09/12/2019 20:00,Fiserv Forum,Milwaukee Bucks,Orlando Magic,110 - 101
+7,09/12/2019 20:00,Smoothie King Center,New Orleans Pelicans,Detroit Pistons,103 - 105
+7,09/12/2019 21:00,Talking Stick Resort Arena,Phoenix Suns,Minnesota Timberwolves,125 - 109
+7,09/12/2019 21:00,Vivint Smart Home Arena,Utah Jazz,Oklahoma City Thunder,90 - 104
+7,09/12/2019 22:30,Chase Center,Golden State Warriors,Memphis Grizzlies,102 - 110
+7,10/12/2019 19:00,Spectrum Center,Charlotte Hornets,Washington Wizards,114 - 107
+7,10/12/2019 20:00,Wells Fargo Center,Philadelphia 76ers,Denver Nuggets,97 - 92
+7,10/12/2019 20:00,AmericanAirlines Arena,Miami Heat,Atlanta Hawks,135 - 121
+7,10/12/2019 22:00,Moda Center,Portland Trail Blazers,New York Knicks,115 - 87
+7,11/12/2019 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Houston Rockets,110 - 116
+7,11/12/2019 19:00,Bankers Life Fieldhouse,Indiana Pacers,Boston Celtics,122 - 117
+7,11/12/2019 19:00,Amway Center,Orlando Magic,Los Angeles Lakers,87 - 96
+7,11/12/2019 19:00,Scotiabank Arena,Toronto Raptors,LA Clippers,92 - 112
+7,11/12/2019 19:30,Barclays Center,Brooklyn Nets,Charlotte Hornets,108 - 113
+7,11/12/2019 20:00,United Center,Chicago Bulls,Atlanta Hawks,136 - 102
+7,11/12/2019 20:00,Target Center,Minnesota Timberwolves,Utah Jazz,116 - 127
+7,11/12/2019 21:00,Talking Stick Resort Arena,Phoenix Suns,Memphis Grizzlies,108 - 115
+7,11/12/2019 21:30,Fiserv Forum,Milwaukee Bucks,New Orleans Pelicans,127 - 112
+7,11/12/2019 22:00,Golden 1 Center,Sacramento Kings,Oklahoma City Thunder,94 - 93
+7,11/12/2019 22:30,Chase Center,Golden State Warriors,New York Knicks,122 - 124
+8,12/12/2019 20:00,TD Garden,Boston Celtics,Philadelphia 76ers,109 - 115
+8,12/12/2019 20:30,AT&T Center,San Antonio Spurs,Cleveland Cavaliers,109 - 117
+8,12/12/2019 21:00,Arena Ciudad de Mexico,Detroit Pistons,Dallas Mavericks,111 - 122
+8,12/12/2019 22:30,Pepsi Center,Denver Nuggets,Portland Trail Blazers,114 - 99
+8,13/12/2019 19:00,Amway Center,Orlando Magic,Houston Rockets,107 - 130
+8,13/12/2019 19:00,Wells Fargo Center,Philadelphia 76ers,New Orleans Pelicans,116 - 109
+8,13/12/2019 19:00,AmericanAirlines Arena,Miami Heat,Los Angeles Lakers,110 - 113
+8,13/12/2019 19:30,State Farm Arena,Atlanta Hawks,Indiana Pacers,100 - 110
+8,13/12/2019 20:00,United Center,Chicago Bulls,Charlotte Hornets,73 - 83
+8,13/12/2019 20:00,FedExForum,Memphis Grizzlies,Milwaukee Bucks,114 - 127
+8,13/12/2019 21:00,Vivint Smart Home Arena,Utah Jazz,Golden State Warriors,114 - 106
+8,13/12/2019 21:30,Target Center,Minnesota Timberwolves,LA Clippers,117 - 124
+8,13/12/2019 22:00,Golden 1 Center,Sacramento Kings,New York Knicks,101 - 103
+8,14/12/2019 17:00,Arena Ciudad de Mexico,Phoenix Suns,San Antonio Spurs,119 - 121
+8,14/12/2019 19:30,Scotiabank Arena,Toronto Raptors,Brooklyn Nets,110 - 102
+8,14/12/2019 20:00,United Center,Chicago Bulls,LA Clippers,109 - 106
+8,14/12/2019 20:00,FedExForum,Memphis Grizzlies,Washington Wizards,128 - 111
+8,14/12/2019 20:30,American Airlines Center,Dallas Mavericks,Miami Heat,118 - 122
+8,14/12/2019 20:30,Fiserv Forum,Milwaukee Bucks,Cleveland Cavaliers,125 - 108
+8,14/12/2019 21:00,Toyota Center,Houston Rockets,Detroit Pistons,107 - 115
+8,14/12/2019 21:00,Pepsi Center,Denver Nuggets,Oklahoma City Thunder,110 - 102
+8,15/12/2019 15:30,Smoothie King Center,New Orleans Pelicans,Orlando Magic,119 - 130
+8,15/12/2019 17:00,Bankers Life Fieldhouse,Indiana Pacers,Charlotte Hornets,107 - 85
+8,15/12/2019 18:00,State Farm Arena,Atlanta Hawks,Los Angeles Lakers,96 - 101
+8,15/12/2019 18:00,Barclays Center,Brooklyn Nets,Philadelphia 76ers,109 - 89
+8,15/12/2019 20:00,Pepsi Center,Denver Nuggets,New York Knicks,111 - 105
+8,15/12/2019 20:30,Chase Center,Golden State Warriors,Sacramento Kings,79 - 100
+8,16/12/2019 19:00,Little Caesars Arena,Detroit Pistons,Washington Wizards,119 - 133
+8,16/12/2019 19:30,Scotiabank Arena,Toronto Raptors,Cleveland Cavaliers,133 - 113
+8,16/12/2019 20:00,Toyota Center,Houston Rockets,San Antonio Spurs,109 - 107
+8,16/12/2019 20:00,FedExForum,Memphis Grizzlies,Miami Heat,118 - 111
+8,16/12/2019 20:00,Fiserv Forum,Milwaukee Bucks,Dallas Mavericks,116 - 120
+8,16/12/2019 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Chicago Bulls,109 - 106
+8,16/12/2019 21:00,Talking Stick Resort Arena,Phoenix Suns,Portland Trail Blazers,110 - 111
+8,17/12/2019 19:00,Spectrum Center,Charlotte Hornets,Sacramento Kings,110 - 102
+8,17/12/2019 19:00,Bankers Life Fieldhouse,Indiana Pacers,Los Angeles Lakers,105 - 102
+8,17/12/2019 19:30,Madison Square Garden,New York Knicks,Atlanta Hawks,143 - 120
+8,17/12/2019 20:00,Smoothie King Center,New Orleans Pelicans,Brooklyn Nets,101 - 108
+8,17/12/2019 21:00,Vivint Smart Home Arena,Utah Jazz,Orlando Magic,109 - 102
+8,17/12/2019 22:30,Staples Center,LA Clippers,Phoenix Suns,120 - 99
+8,18/12/2019 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Charlotte Hornets,100 - 98
+8,18/12/2019 19:00,Little Caesars Arena,Detroit Pistons,Toronto Raptors,99 - 112
+8,18/12/2019 19:00,Capital One Arena,Washington Wizards,Chicago Bulls,109 - 110
+8,18/12/2019 19:00,Wells Fargo Center,Philadelphia 76ers,Miami Heat,104 - 108
+8,18/12/2019 20:00,Target Center,Minnesota Timberwolves,New Orleans Pelicans,99 - 107
+8,18/12/2019 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Memphis Grizzlies,126 - 122
+8,18/12/2019 21:00,Pepsi Center,Denver Nuggets,Orlando Magic,113 - 104
+8,18/12/2019 21:30,American Airlines Center,Dallas Mavericks,Boston Celtics,103 - 109
+8,18/12/2019 22:00,Moda Center,Portland Trail Blazers,Golden State Warriors,122 - 112
+9,19/12/2019 19:30,State Farm Arena,Atlanta Hawks,Utah Jazz,106 - 111
+9,19/12/2019 20:00,Fiserv Forum,Milwaukee Bucks,Los Angeles Lakers,111 - 104
+9,19/12/2019 20:30,AT&T Center,San Antonio Spurs,Brooklyn Nets,118 - 105
+9,19/12/2019 22:30,Staples Center,LA Clippers,Houston Rockets,117 - 122
+9,20/12/2019 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Memphis Grizzlies,114 - 107
+9,20/12/2019 19:00,Bankers Life Fieldhouse,Indiana Pacers,Sacramento Kings,119 - 105
+9,20/12/2019 19:30,TD Garden,Boston Celtics,Detroit Pistons,114 - 93
+9,20/12/2019 19:30,Scotiabank Arena,Toronto Raptors,Washington Wizards,122 - 118
+9,20/12/2019 20:00,AmericanAirlines Arena,Miami Heat,New York Knicks,129 - 114
+9,20/12/2019 20:00,Wells Fargo Center,Philadelphia 76ers,Dallas Mavericks,98 - 117
+9,20/12/2019 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Phoenix Suns,126 - 108
+9,20/12/2019 21:00,Pepsi Center,Denver Nuggets,Minnesota Timberwolves,109 - 100
+9,20/12/2019 22:00,Moda Center,Portland Trail Blazers,Orlando Magic,118 - 103
+9,20/12/2019 22:30,Chase Center,Golden State Warriors,New Orleans Pelicans,106 - 102
+9,21/12/2019 17:00,Spectrum Center,Charlotte Hornets,Utah Jazz,107 - 114
+9,21/12/2019 18:00,Barclays Center,Brooklyn Nets,Atlanta Hawks,122 - 112
+9,21/12/2019 19:00,Little Caesars Arena,Detroit Pistons,Chicago Bulls,107 - 119
+9,21/12/2019 19:00,Wells Fargo Center,Philadelphia 76ers,Washington Wizards,125 - 108
+9,21/12/2019 19:30,Madison Square Garden,New York Knicks,Milwaukee Bucks,102 - 123
+9,21/12/2019 20:00,FedExForum,Memphis Grizzlies,Sacramento Kings,119 - 115
+9,21/12/2019 20:30,AT&T Center,San Antonio Spurs,LA Clippers,109 - 134
+9,21/12/2019 21:00,Talking Stick Resort Arena,Phoenix Suns,Houston Rockets,125 - 139
+9,21/12/2019 22:00,Moda Center,Portland Trail Blazers,Minnesota Timberwolves,113 - 106
+9,22/12/2019 15:30,Scotiabank Arena,Toronto Raptors,Dallas Mavericks,110 - 107
+9,22/12/2019 18:00,TD Garden,Boston Celtics,Charlotte Hornets,119 - 93
+9,22/12/2019 19:00,Fiserv Forum,Milwaukee Bucks,Indiana Pacers,117 - 89
+9,22/12/2019 19:00,Chesapeake Energy Arena,Oklahoma City Thunder,LA Clippers,118 - 112
+9,22/12/2019 21:30,Staples Center,Los Angeles Lakers,Denver Nuggets,104 - 128
+9,23/12/2019 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Atlanta Hawks,121 - 118
+9,23/12/2019 19:00,Little Caesars Arena,Detroit Pistons,Philadelphia 76ers,109 - 125
+9,23/12/2019 19:00,Bankers Life Fieldhouse,Indiana Pacers,Toronto Raptors,120 - 115
+9,23/12/2019 19:00,Madison Square Garden,New York Knicks,Washington Wizards,115 - 121
+9,23/12/2019 19:00,Amway Center,Orlando Magic,Chicago Bulls,103 - 95
+9,23/12/2019 19:30,AmericanAirlines Arena,Miami Heat,Utah Jazz,107 - 104
+9,23/12/2019 20:00,FedExForum,Memphis Grizzlies,San Antonio Spurs,115 - 145
+9,23/12/2019 21:00,Talking Stick Resort Arena,Phoenix Suns,Denver Nuggets,111 - 113
+9,23/12/2019 22:00,Moda Center,Portland Trail Blazers,New Orleans Pelicans,94 - 102
+9,23/12/2019 22:00,Golden 1 Center,Sacramento Kings,Houston Rockets,104 - 113
+9,23/12/2019 22:30,Chase Center,Golden State Warriors,Minnesota Timberwolves,113 - 104
+9,25/12/2019 12:00,Scotiabank Arena,Toronto Raptors,Boston Celtics,102 - 118
+9,25/12/2019 14:30,Wells Fargo Center,Philadelphia 76ers,Milwaukee Bucks,121 - 109
+9,25/12/2019 17:00,Chase Center,Golden State Warriors,Houston Rockets,116 - 104
+9,25/12/2019 20:00,Staples Center,Los Angeles Lakers,LA Clippers,106 - 111
+9,25/12/2019 22:30,Pepsi Center,Denver Nuggets,New Orleans Pelicans,100 - 112
+10,26/12/2019 19:00,Little Caesars Arena,Detroit Pistons,Washington Wizards,132 - 102
+10,26/12/2019 19:30,Barclays Center,Brooklyn Nets,New York Knicks,82 - 94
+10,26/12/2019 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Memphis Grizzlies,97 - 110
+10,26/12/2019 20:00,American Airlines Center,Dallas Mavericks,San Antonio Spurs,102 - 98
+10,26/12/2019 22:00,Golden 1 Center,Sacramento Kings,Minnesota Timberwolves,104 - 105
+10,26/12/2019 22:30,Vivint Smart Home Arena,Utah Jazz,Portland Trail Blazers,121 - 115
+10,27/12/2019 16:00,TD Garden,Boston Celtics,Cleveland Cavaliers,129 - 117
+10,27/12/2019 19:00,Spectrum Center,Charlotte Hornets,Oklahoma City Thunder,102 - 104
+10,27/12/2019 19:00,Amway Center,Orlando Magic,Philadelphia 76ers,98 - 97
+10,27/12/2019 19:30,State Farm Arena,Atlanta Hawks,Milwaukee Bucks,86 - 112
+10,27/12/2019 20:00,AmericanAirlines Arena,Miami Heat,Indiana Pacers,113 - 112
+10,27/12/2019 22:30,Chase Center,Golden State Warriors,Phoenix Suns,105 - 96
+10,28/12/2019 17:00,Pepsi Center,Denver Nuggets,Memphis Grizzlies,119 - 110
+10,28/12/2019 19:00,TD Garden,Boston Celtics,Toronto Raptors,97 - 113
+10,28/12/2019 19:00,Smoothie King Center,New Orleans Pelicans,Indiana Pacers,120 - 98
+10,28/12/2019 20:00,AmericanAirlines Arena,Miami Heat,Philadelphia 76ers,117 - 116
+10,28/12/2019 20:00,Capital One Arena,Washington Wizards,New York Knicks,100 - 107
+10,28/12/2019 20:00,United Center,Chicago Bulls,Atlanta Hawks,116 - 81
+10,28/12/2019 20:00,Toyota Center,Houston Rockets,Brooklyn Nets,108 - 98
+10,28/12/2019 20:00,Target Center,Minnesota Timberwolves,Cleveland Cavaliers,88 - 94
+10,28/12/2019 20:30,Fiserv Forum,Milwaukee Bucks,Orlando Magic,111 - 100
+10,28/12/2019 20:30,AT&T Center,San Antonio Spurs,Detroit Pistons,136 - 109
+10,28/12/2019 20:30,Chase Center,Golden State Warriors,Dallas Mavericks,121 - 141
+10,28/12/2019 21:00,Golden 1 Center,Sacramento Kings,Phoenix Suns,110 - 112
+10,28/12/2019 22:00,Moda Center,Portland Trail Blazers,Los Angeles Lakers,120 - 128
+10,28/12/2019 22:30,Staples Center,LA Clippers,Utah Jazz,107 - 120
+10,29/12/2019 18:00,Scotiabank Arena,Toronto Raptors,Oklahoma City Thunder,97 - 98
+10,29/12/2019 20:00,FedExForum,Memphis Grizzlies,Charlotte Hornets,117 - 104
+10,29/12/2019 20:00,Smoothie King Center,New Orleans Pelicans,Houston Rockets,127 - 112
+10,29/12/2019 20:00,Pepsi Center,Denver Nuggets,Sacramento Kings,120 - 115
+10,29/12/2019 21:30,Staples Center,Los Angeles Lakers,Dallas Mavericks,108 - 95
+10,30/12/2019 19:00,Amway Center,Orlando Magic,Atlanta Hawks,93 - 101
+10,30/12/2019 19:00,Capital One Arena,Washington Wizards,Miami Heat,123 - 105
+10,30/12/2019 20:00,United Center,Chicago Bulls,Milwaukee Bucks,102 - 123
+10,30/12/2019 20:00,Target Center,Minnesota Timberwolves,Brooklyn Nets,122 - 115
+10,30/12/2019 21:00,Vivint Smart Home Arena,Utah Jazz,Detroit Pistons,104 - 81
+10,30/12/2019 22:00,Moda Center,Portland Trail Blazers,Phoenix Suns,116 - 122
+10,31/12/2019 15:00,Spectrum Center,Charlotte Hornets,Boston Celtics,92 - 109
+10,31/12/2019 15:00,Bankers Life Fieldhouse,Indiana Pacers,Philadelphia 76ers,115 - 97
+10,31/12/2019 17:00,Golden 1 Center,Sacramento Kings,LA Clippers,87 - 105
+10,31/12/2019 19:00,Scotiabank Arena,Toronto Raptors,Cleveland Cavaliers,117 - 97
+10,31/12/2019 19:00,Toyota Center,Houston Rockets,Denver Nuggets,130 - 104
+10,31/12/2019 19:00,AT&T Center,San Antonio Spurs,Golden State Warriors,117 - 113
+10,31/12/2019 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Dallas Mavericks,106 - 101
+10,01/01/2020 18:00,Capital One Arena,Washington Wizards,Orlando Magic,101 - 122
+10,01/01/2020 19:30,Madison Square Garden,New York Knicks,Portland Trail Blazers,117 - 93
+10,01/01/2020 20:00,Fiserv Forum,Milwaukee Bucks,Minnesota Timberwolves,106 - 104
+10,01/01/2020 22:30,Staples Center,Los Angeles Lakers,Phoenix Suns,117 - 107
+11,02/01/2020 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Charlotte Hornets,106 - 109
+11,02/01/2020 19:00,Bankers Life Fieldhouse,Indiana Pacers,Denver Nuggets,116 - 124
+11,02/01/2020 19:30,AmericanAirlines Arena,Miami Heat,Toronto Raptors,84 - 76
+11,02/01/2020 20:00,United Center,Chicago Bulls,Utah Jazz,98 - 102
+11,02/01/2020 20:00,Target Center,Minnesota Timberwolves,Golden State Warriors,99 - 84
+11,02/01/2020 20:30,American Airlines Center,Dallas Mavericks,Brooklyn Nets,123 - 111
+11,02/01/2020 20:30,AT&T Center,San Antonio Spurs,Oklahoma City Thunder,103 - 109
+11,02/01/2020 22:00,Golden 1 Center,Sacramento Kings,Memphis Grizzlies,128 - 123
+11,02/01/2020 22:30,Staples Center,LA Clippers,Detroit Pistons,126 - 112
+11,03/01/2020 19:00,TD Garden,Boston Celtics,Atlanta Hawks,109 - 106
+11,03/01/2020 19:00,Amway Center,Orlando Magic,Miami Heat,105 - 85
+11,03/01/2020 19:00,Capital One Arena,Washington Wizards,Portland Trail Blazers,103 - 122
+11,03/01/2020 20:00,Toyota Center,Houston Rockets,Philadelphia 76ers,118 - 108
+11,03/01/2020 21:00,Talking Stick Resort Arena,Phoenix Suns,New York Knicks,120 - 112
+11,03/01/2020 22:30,Staples Center,Los Angeles Lakers,New Orleans Pelicans,123 - 113
+11,04/01/2020 15:30,Staples Center,LA Clippers,Memphis Grizzlies,114 - 140
+11,04/01/2020 18:00,Barclays Center,Brooklyn Nets,Toronto Raptors,102 - 121
+11,04/01/2020 19:00,Amway Center,Orlando Magic,Utah Jazz,96 - 109
+11,04/01/2020 19:30,State Farm Arena,Atlanta Hawks,Indiana Pacers,116 - 111
+11,04/01/2020 19:30,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Oklahoma City Thunder,106 - 121
+11,04/01/2020 20:00,Capital One Arena,Washington Wizards,Denver Nuggets,128 - 114
+11,04/01/2020 20:00,United Center,Chicago Bulls,Boston Celtics,104 - 111
+11,04/01/2020 20:30,American Airlines Center,Dallas Mavericks,Charlotte Hornets,120 - 123
+11,04/01/2020 20:30,Fiserv Forum,Milwaukee Bucks,San Antonio Spurs,127 - 118
+11,04/01/2020 20:30,Chase Center,Golden State Warriors,Detroit Pistons,104 - 111
+11,04/01/2020 22:00,Golden 1 Center,Sacramento Kings,New Orleans Pelicans,115 - 117
+11,05/01/2020 15:30,Staples Center,LA Clippers,New York Knicks,135 - 132
+11,05/01/2020 18:00,AmericanAirlines Arena,Miami Heat,Portland Trail Blazers,122 - 111
+11,05/01/2020 19:30,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Minnesota Timberwolves,103 - 118
+11,05/01/2020 20:00,Talking Stick Resort Arena,Phoenix Suns,Memphis Grizzlies,114 - 121
+11,05/01/2020 22:00,Staples Center,Los Angeles Lakers,Detroit Pistons,106 - 99
+11,06/01/2020 19:00,Spectrum Center,Charlotte Hornets,Indiana Pacers,104 - 115
+11,06/01/2020 19:00,Amway Center,Orlando Magic,Brooklyn Nets,101 - 89
+11,06/01/2020 19:00,Wells Fargo Center,Philadelphia 76ers,Oklahoma City Thunder,120 - 113
+11,06/01/2020 19:00,Capital One Arena,Washington Wizards,Boston Celtics,99 - 94
+11,06/01/2020 19:30,State Farm Arena,Atlanta Hawks,Denver Nuggets,115 - 123
+11,06/01/2020 20:00,Smoothie King Center,New Orleans Pelicans,Utah Jazz,126 - 128
+11,06/01/2020 20:30,American Airlines Center,Dallas Mavericks,Chicago Bulls,118 - 110
+11,06/01/2020 20:30,AT&T Center,San Antonio Spurs,Milwaukee Bucks,126 - 104
+11,06/01/2020 22:00,Golden 1 Center,Sacramento Kings,Golden State Warriors,111 - 98
+11,07/01/2020 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Detroit Pistons,113 - 115
+11,07/01/2020 19:00,Scotiabank Arena,Toronto Raptors,Portland Trail Blazers,99 - 101
+11,07/01/2020 19:30,Barclays Center,Brooklyn Nets,Oklahoma City Thunder,103 - 111
+11,07/01/2020 20:00,FedExForum,Memphis Grizzlies,Minnesota Timberwolves,119 - 112
+11,07/01/2020 21:00,Talking Stick Resort Arena,Phoenix Suns,Sacramento Kings,103 - 114
+11,07/01/2020 22:30,Staples Center,Los Angeles Lakers,New York Knicks,117 - 87
+11,08/01/2020 19:00,TD Garden,Boston Celtics,San Antonio Spurs,114 - 129
+11,08/01/2020 19:00,Spectrum Center,Charlotte Hornets,Toronto Raptors,110 - 112
+11,08/01/2020 19:00,Bankers Life Fieldhouse,Indiana Pacers,Miami Heat,108 - 122
+11,08/01/2020 19:00,Amway Center,Orlando Magic,Washington Wizards,123 - 89
+11,08/01/2020 19:30,State Farm Arena,Atlanta Hawks,Houston Rockets,115 - 122
+11,08/01/2020 19:30,American Airlines Center,Dallas Mavericks,Denver Nuggets,106 - 107
+11,08/01/2020 20:00,Smoothie King Center,New Orleans Pelicans,Chicago Bulls,123 - 108
+11,08/01/2020 21:00,Vivint Smart Home Arena,Utah Jazz,New York Knicks,128 - 104
+11,08/01/2020 22:00,Chase Center,Golden State Warriors,Milwaukee Bucks,98 - 107
+12,09/01/2020 19:00,Little Caesars Arena,Detroit Pistons,Cleveland Cavaliers,112 - 115
+12,09/01/2020 19:00,Wells Fargo Center,Philadelphia 76ers,Boston Celtics,109 - 98
+12,09/01/2020 20:00,Target Center,Minnesota Timberwolves,Portland Trail Blazers,116 - 102
+12,09/01/2020 21:30,Chesapeake Energy Arena,Oklahoma City Thunder,Houston Rockets,113 - 92
+12,10/01/2020 19:00,Capital One Arena,Washington Wizards,Atlanta Hawks,111 - 101
+12,10/01/2020 19:15,Madison Square Garden,New York Knicks,New Orleans Pelicans,111 - 123
+12,10/01/2020 19:30,Barclays Center,Brooklyn Nets,Miami Heat,117 - 113
+12,10/01/2020 20:00,United Center,Chicago Bulls,Indiana Pacers,105 - 116
+12,10/01/2020 20:00,FedExForum,Memphis Grizzlies,San Antonio Spurs,134 - 121
+12,10/01/2020 21:00,Talking Stick Resort Arena,Phoenix Suns,Orlando Magic,98 - 94
+12,10/01/2020 21:00,Vivint Smart Home Arena,Utah Jazz,Charlotte Hornets,109 - 92
+12,10/01/2020 21:45,American Airlines Center,Dallas Mavericks,Los Angeles Lakers,114 - 129
+12,10/01/2020 22:00,Golden 1 Center,Sacramento Kings,Milwaukee Bucks,106 - 127
+12,10/01/2020 22:30,Staples Center,LA Clippers,Golden State Warriors,109 - 100
+12,11/01/2020 17:00,Toyota Center,Houston Rockets,Minnesota Timberwolves,139 - 109
+12,11/01/2020 19:00,TD Garden,Boston Celtics,New Orleans Pelicans,140 - 105
+12,11/01/2020 19:00,Little Caesars Arena,Detroit Pistons,Chicago Bulls,99 - 108
+12,11/01/2020 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Los Angeles Lakers,110 - 125
+12,11/01/2020 20:30,American Airlines Center,Dallas Mavericks,Philadelphia 76ers,109 - 91
+12,11/01/2020 21:00,Pepsi Center,Denver Nuggets,Cleveland Cavaliers,103 - 111
+12,11/01/2020 22:00,Moda Center,Portland Trail Blazers,Milwaukee Bucks,101 - 122
+12,12/01/2020 15:30,Madison Square Garden,New York Knicks,Miami Heat,124 - 121
+12,12/01/2020 15:30,Capital One Arena,Washington Wizards,Utah Jazz,116 - 127
+12,12/01/2020 18:00,Barclays Center,Brooklyn Nets,Atlanta Hawks,108 - 86
+12,12/01/2020 18:00,Scotiabank Arena,Toronto Raptors,San Antonio Spurs,104 - 105
+12,12/01/2020 18:00,FedExForum,Memphis Grizzlies,Golden State Warriors,122 - 102
+12,12/01/2020 20:00,Pepsi Center,Denver Nuggets,LA Clippers,114 - 104
+12,12/01/2020 20:00,Talking Stick Resort Arena,Phoenix Suns,Charlotte Hornets,100 - 92
+12,13/01/2020 19:00,Little Caesars Arena,Detroit Pistons,New Orleans Pelicans,110 - 117
+12,13/01/2020 19:00,Bankers Life Fieldhouse,Indiana Pacers,Philadelphia 76ers,101 - 95
+12,13/01/2020 19:30,TD Garden,Boston Celtics,Chicago Bulls,113 - 101
+12,13/01/2020 20:00,Target Center,Minnesota Timberwolves,Oklahoma City Thunder,104 - 117
+12,13/01/2020 22:00,Moda Center,Portland Trail Blazers,Charlotte Hornets,115 - 112
+12,13/01/2020 22:00,Golden 1 Center,Sacramento Kings,Orlando Magic,112 - 114
+12,13/01/2020 22:30,Staples Center,Los Angeles Lakers,Cleveland Cavaliers,128 - 99
+12,14/01/2020 19:30,State Farm Arena,Atlanta Hawks,Phoenix Suns,123 - 110
+12,14/01/2020 19:30,Barclays Center,Brooklyn Nets,Utah Jazz,107 - 118
+12,14/01/2020 20:00,FedExForum,Memphis Grizzlies,Houston Rockets,121 - 110
+12,14/01/2020 20:00,Fiserv Forum,Milwaukee Bucks,New York Knicks,128 - 102
+12,14/01/2020 22:30,Chase Center,Golden State Warriors,Dallas Mavericks,97 - 124
+12,14/01/2020 22:30,Staples Center,LA Clippers,Cleveland Cavaliers,128 - 103
+12,15/01/2020 19:00,TD Garden,Boston Celtics,Detroit Pistons,103 - 116
+12,15/01/2020 19:00,Wells Fargo Center,Philadelphia 76ers,Brooklyn Nets,117 - 106
+12,15/01/2020 19:30,AmericanAirlines Arena,Miami Heat,San Antonio Spurs,106 - 100
+12,15/01/2020 20:00,United Center,Chicago Bulls,Washington Wizards,115 - 106
+12,15/01/2020 20:00,Target Center,Minnesota Timberwolves,Indiana Pacers,99 - 104
+12,15/01/2020 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Toronto Raptors,121 - 130
+12,15/01/2020 21:00,Pepsi Center,Denver Nuggets,Charlotte Hornets,100 - 86
+12,15/01/2020 21:30,Toyota Center,Houston Rockets,Portland Trail Blazers,107 - 117
+12,15/01/2020 22:00,Golden 1 Center,Sacramento Kings,Dallas Mavericks,123 - 127
+12,15/01/2020 22:30,Staples Center,Los Angeles Lakers,Orlando Magic,118 - 119
+13,16/01/2020 19:30,Madison Square Garden,New York Knicks,Phoenix Suns,98 - 121
+13,16/01/2020 20:00,Fiserv Forum,Milwaukee Bucks,Boston Celtics,128 - 123
+13,16/01/2020 20:00,Smoothie King Center,New Orleans Pelicans,Utah Jazz,138 - 132
+13,16/01/2020 22:30,Chase Center,Golden State Warriors,Denver Nuggets,131 - 134
+13,16/01/2020 22:30,Staples Center,LA Clippers,Orlando Magic,122 - 95
+13,17/01/2020 19:00,Bankers Life Fieldhouse,Indiana Pacers,Minnesota Timberwolves,116 - 114
+13,17/01/2020 19:00,Wells Fargo Center,Philadelphia 76ers,Chicago Bulls,100 - 89
+13,17/01/2020 19:00,Scotiabank Arena,Toronto Raptors,Washington Wizards,140 - 111
+13,17/01/2020 20:00,FedExForum,Memphis Grizzlies,Cleveland Cavaliers,113 - 109
+13,17/01/2020 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Miami Heat,108 - 115
+13,17/01/2020 20:30,AT&T Center,San Antonio Spurs,Atlanta Hawks,120 - 121
+13,17/01/2020 21:30,American Airlines Center,Dallas Mavericks,Portland Trail Blazers,120 - 112
+13,18/01/2020 15:30,Smoothie King Center,New Orleans Pelicans,LA Clippers,130 - 133
+13,18/01/2020 18:00,Barclays Center,Brooklyn Nets,Milwaukee Bucks,97 - 117
+13,18/01/2020 19:00,TD Garden,Boston Celtics,Phoenix Suns,119 - 123
+13,18/01/2020 19:30,State Farm Arena,Atlanta Hawks,Detroit Pistons,103 - 136
+13,18/01/2020 19:30,Madison Square Garden,New York Knicks,Philadelphia 76ers,87 - 90
+13,18/01/2020 20:00,United Center,Chicago Bulls,Cleveland Cavaliers,118 - 116
+13,18/01/2020 20:00,Target Center,Minnesota Timberwolves,Toronto Raptors,112 - 122
+13,18/01/2020 20:30,Toyota Center,Houston Rockets,Los Angeles Lakers,115 - 124
+13,18/01/2020 20:30,Chase Center,Golden State Warriors,Orlando Magic,109 - 95
+13,18/01/2020 21:00,Chesapeake Energy Arena,Oklahoma City Thunder,Portland Trail Blazers,119 - 106
+13,18/01/2020 21:00,Vivint Smart Home Arena,Utah Jazz,Sacramento Kings,123 - 101
+13,19/01/2020 15:00,AT&T Center,San Antonio Spurs,Miami Heat,107 - 102
+13,19/01/2020 20:00,Pepsi Center,Denver Nuggets,Indiana Pacers,107 - 115
+13,20/01/2020 14:00,Capital One Arena,Washington Wizards,Detroit Pistons,106 - 100
+13,20/01/2020 14:30,State Farm Arena,Atlanta Hawks,Toronto Raptors,117 - 122
+13,20/01/2020 15:00,Barclays Center,Brooklyn Nets,Philadelphia 76ers,111 - 117
+13,20/01/2020 17:00,Spectrum Center,Charlotte Hornets,Orlando Magic,83 - 106
+13,20/01/2020 17:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,New York Knicks,86 - 106
+13,20/01/2020 17:00,AmericanAirlines Arena,Miami Heat,Sacramento Kings,118 - 113
+13,20/01/2020 17:00,Toyota Center,Houston Rockets,Oklahoma City Thunder,107 - 112
+13,20/01/2020 17:00,FedExForum,Memphis Grizzlies,New Orleans Pelicans,116 - 126
+13,20/01/2020 17:00,Fiserv Forum,Milwaukee Bucks,Chicago Bulls,111 - 98
+13,20/01/2020 19:30,TD Garden,Boston Celtics,Los Angeles Lakers,139 - 107
+13,20/01/2020 20:00,Target Center,Minnesota Timberwolves,Denver Nuggets,100 - 107
+13,20/01/2020 21:00,Talking Stick Resort Arena,Phoenix Suns,San Antonio Spurs,118 - 120
+13,20/01/2020 21:00,Vivint Smart Home Arena,Utah Jazz,Indiana Pacers,118 - 88
+13,20/01/2020 22:00,Moda Center,Portland Trail Blazers,Golden State Warriors,129 - 124
+13,21/01/2020 20:30,American Airlines Center,Dallas Mavericks,LA Clippers,107 - 110
+13,22/01/2020 19:00,Little Caesars Arena,Detroit Pistons,Sacramento Kings,127 - 106
+13,22/01/2020 19:00,Amway Center,Orlando Magic,Oklahoma City Thunder,114 - 120
+13,22/01/2020 19:00,Scotiabank Arena,Toronto Raptors,Philadelphia 76ers,107 - 95
+13,22/01/2020 19:30,State Farm Arena,Atlanta Hawks,LA Clippers,102 - 95
+13,22/01/2020 19:30,TD Garden,Boston Celtics,Memphis Grizzlies,119 - 95
+13,22/01/2020 19:30,AmericanAirlines Arena,Miami Heat,Washington Wizards,134 - 129
+13,22/01/2020 19:30,Madison Square Garden,New York Knicks,Los Angeles Lakers,92 - 100
+13,22/01/2020 20:00,United Center,Chicago Bulls,Minnesota Timberwolves,117 - 110
+13,22/01/2020 20:00,Toyota Center,Houston Rockets,Denver Nuggets,121 - 105
+13,22/01/2020 21:00,Talking Stick Resort Arena,Phoenix Suns,Indiana Pacers,87 - 112
+13,22/01/2020 21:30,Smoothie King Center,New Orleans Pelicans,San Antonio Spurs,117 - 121
+13,22/01/2020 22:00,Chase Center,Golden State Warriors,Utah Jazz,96 - 129
+14,23/01/2020 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Washington Wizards,112 - 124
+14,23/01/2020 20:00,Barclays Center,Brooklyn Nets,Los Angeles Lakers,113 - 128
+14,23/01/2020 22:30,Moda Center,Portland Trail Blazers,Dallas Mavericks,125 - 133
+14,24/01/2020 15:00,AccorHotels Arena,Charlotte Hornets,Milwaukee Bucks,103 - 116
+14,24/01/2020 19:00,Little Caesars Arena,Detroit Pistons,Memphis Grizzlies,112 - 125
+14,24/01/2020 19:00,Amway Center,Orlando Magic,Boston Celtics,98 - 109
+14,24/01/2020 19:30,Madison Square Garden,New York Knicks,Toronto Raptors,112 - 118
+14,24/01/2020 20:00,AmericanAirlines Arena,Miami Heat,LA Clippers,117 - 122
+14,24/01/2020 20:00,United Center,Chicago Bulls,Sacramento Kings,81 - 98
+14,24/01/2020 20:00,Target Center,Minnesota Timberwolves,Houston Rockets,124 - 131
+14,24/01/2020 20:00,Smoothie King Center,New Orleans Pelicans,Denver Nuggets,106 - 113
+14,24/01/2020 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Atlanta Hawks,140 - 111
+14,24/01/2020 20:30,AT&T Center,San Antonio Spurs,Phoenix Suns,99 - 103
+14,24/01/2020 22:30,Chase Center,Golden State Warriors,Indiana Pacers,118 - 129
+14,25/01/2020 17:00,Vivint Smart Home Arena,Utah Jazz,Dallas Mavericks,112 - 107
+14,25/01/2020 19:00,Little Caesars Arena,Detroit Pistons,Brooklyn Nets,111 - 121
+14,25/01/2020 20:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Chicago Bulls,106 - 118
+14,25/01/2020 20:00,Target Center,Minnesota Timberwolves,Oklahoma City Thunder,104 - 113
+14,25/01/2020 20:30,Wells Fargo Center,Philadelphia 76ers,Los Angeles Lakers,108 - 91
+14,26/01/2020 15:30,Pepsi Center,Denver Nuggets,Houston Rockets,117 - 110
+14,26/01/2020 16:00,AT&T Center,San Antonio Spurs,Toronto Raptors,106 - 110
+14,26/01/2020 18:00,State Farm Arena,Atlanta Hawks,Washington Wizards,152 - 133
+14,26/01/2020 18:00,Madison Square Garden,New York Knicks,Brooklyn Nets,110 - 97
+14,26/01/2020 18:00,Amway Center,Orlando Magic,LA Clippers,97 - 112
+14,26/01/2020 18:00,FedExForum,Memphis Grizzlies,Phoenix Suns,114 - 109
+14,26/01/2020 18:00,Smoothie King Center,New Orleans Pelicans,Boston Celtics,123 - 108
+14,26/01/2020 21:00,Moda Center,Portland Trail Blazers,Indiana Pacers,139 - 129
+14,27/01/2020 19:00,Little Caesars Arena,Detroit Pistons,Cleveland Cavaliers,100 - 115
+14,27/01/2020 19:30,AmericanAirlines Arena,Miami Heat,Orlando Magic,113 - 92
+14,27/01/2020 20:00,United Center,Chicago Bulls,San Antonio Spurs,110 - 109
+14,27/01/2020 20:00,Target Center,Minnesota Timberwolves,Sacramento Kings,129 - 133
+14,27/01/2020 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Dallas Mavericks,97 - 107
+14,27/01/2020 21:00,Vivint Smart Home Arena,Utah Jazz,Houston Rockets,117 - 126
+14,28/01/2020 19:00,Spectrum Center,Charlotte Hornets,New York Knicks,97 - 92
+14,28/01/2020 19:00,Wells Fargo Center,Philadelphia 76ers,Golden State Warriors,115 - 104
+14,28/01/2020 19:30,Rocket Mortgage FieldHouse,Cleveland Cavaliers,New Orleans Pelicans,111 - 125
+14,28/01/2020 19:30,Scotiabank Arena,Toronto Raptors,Atlanta Hawks,130 - 114
+14,28/01/2020 20:00,AmericanAirlines Arena,Miami Heat,Boston Celtics,101 - 109
+14,28/01/2020 20:00,FedExForum,Memphis Grizzlies,Denver Nuggets,104 - 96
+14,28/01/2020 20:00,Fiserv Forum,Milwaukee Bucks,Washington Wizards,151 - 131
+14,28/01/2020 20:30,American Airlines Center,Dallas Mavericks,Phoenix Suns,104 - 133
+14,29/01/2020 19:00,Bankers Life Fieldhouse,Indiana Pacers,Chicago Bulls,115 - 106
+14,29/01/2020 19:30,Barclays Center,Brooklyn Nets,Detroit Pistons,125 - 115
+14,29/01/2020 19:30,Madison Square Garden,New York Knicks,Memphis Grizzlies,106 - 127
+14,29/01/2020 20:30,AT&T Center,San Antonio Spurs,Utah Jazz,127 - 120
+14,29/01/2020 22:00,Moda Center,Portland Trail Blazers,Houston Rockets,125 - 112
+14,29/01/2020 22:00,Golden 1 Center,Sacramento Kings,Oklahoma City Thunder,100 - 120
+15,30/01/2020 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Toronto Raptors,109 - 115
+15,30/01/2020 19:00,Capital One Arena,Washington Wizards,Charlotte Hornets,121 - 107
+15,30/01/2020 19:30,State Farm Arena,Atlanta Hawks,Philadelphia 76ers,127 - 117
+15,30/01/2020 20:00,TD Garden,Boston Celtics,Golden State Warriors,119 - 104
+15,30/01/2020 22:30,Pepsi Center,Denver Nuggets,Utah Jazz,106 - 100
+15,30/01/2020 22:30,Staples Center,LA Clippers,Sacramento Kings,103 - 124
+15,31/01/2020 19:00,Little Caesars Arena,Detroit Pistons,Toronto Raptors,92 - 105
+15,31/01/2020 19:30,Barclays Center,Brooklyn Nets,Chicago Bulls,133 - 118
+15,31/01/2020 19:30,Toyota Center,Houston Rockets,Dallas Mavericks,128 - 121
+15,31/01/2020 20:00,Smoothie King Center,New Orleans Pelicans,Memphis Grizzlies,139 - 111
+15,31/01/2020 21:00,Fiserv Forum,Milwaukee Bucks,Denver Nuggets,115 - 127
+15,31/01/2020 21:00,Talking Stick Resort Arena,Phoenix Suns,Oklahoma City Thunder,107 - 111
+15,31/01/2020 22:30,Staples Center,Los Angeles Lakers,Portland Trail Blazers,119 - 127
+15,01/02/2020 15:30,Staples Center,LA Clippers,Minnesota Timberwolves,118 - 106
+15,01/02/2020 19:00,Bankers Life Fieldhouse,Indiana Pacers,New York Knicks,85 - 92
+15,01/02/2020 19:00,Amway Center,Orlando Magic,Miami Heat,89 - 102
+15,01/02/2020 20:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Golden State Warriors,112 - 131
+15,01/02/2020 20:00,Capital One Arena,Washington Wizards,Brooklyn Nets,113 - 107
+15,01/02/2020 20:30,TD Garden,Boston Celtics,Philadelphia 76ers,116 - 95
+15,01/02/2020 20:30,American Airlines Center,Dallas Mavericks,Atlanta Hawks,123 - 100
+15,01/02/2020 21:00,AT&T Center,San Antonio Spurs,Charlotte Hornets,114 - 90
+15,01/02/2020 22:00,Golden 1 Center,Sacramento Kings,Los Angeles Lakers,113 - 129
+15,01/02/2020 22:30,Moda Center,Portland Trail Blazers,Utah Jazz,124 - 107
+15,02/02/2020 12:30,Little Caesars Arena,Detroit Pistons,Denver Nuggets,128 - 123
+15,02/02/2020 14:00,Toyota Center,Houston Rockets,New Orleans Pelicans,117 - 109
+15,02/02/2020 14:00,Fiserv Forum,Milwaukee Bucks,Phoenix Suns,129 - 108
+15,02/02/2020 15:00,Scotiabank Arena,Toronto Raptors,Chicago Bulls,129 - 102
+15,03/02/2020 19:00,Spectrum Center,Charlotte Hornets,Orlando Magic,100 - 112
+15,03/02/2020 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,New York Knicks,134 - 139
+15,03/02/2020 19:00,Bankers Life Fieldhouse,Indiana Pacers,Dallas Mavericks,103 - 112
+15,03/02/2020 19:00,Capital One Arena,Washington Wizards,Golden State Warriors,117 - 125
+15,03/02/2020 19:30,State Farm Arena,Atlanta Hawks,Boston Celtics,115 - 123
+15,03/02/2020 19:30,Barclays Center,Brooklyn Nets,Phoenix Suns,119 - 97
+15,03/02/2020 19:30,AmericanAirlines Arena,Miami Heat,Philadelphia 76ers,137 - 106
+15,03/02/2020 20:00,FedExForum,Memphis Grizzlies,Detroit Pistons,96 - 82
+15,03/02/2020 22:00,Golden 1 Center,Sacramento Kings,Minnesota Timberwolves,113 - 109
+15,03/02/2020 22:30,Staples Center,LA Clippers,San Antonio Spurs,108 - 105
+15,04/02/2020 19:30,Smoothie King Center,New Orleans Pelicans,Milwaukee Bucks,108 - 120
+15,04/02/2020 20:00,Toyota Center,Houston Rockets,Charlotte Hornets,125 - 110
+15,04/02/2020 21:00,Pepsi Center,Denver Nuggets,Portland Trail Blazers,127 - 99
+15,04/02/2020 22:00,Staples Center,Los Angeles Lakers,San Antonio Spurs,129 - 102
+15,05/02/2020 19:00,Little Caesars Arena,Detroit Pistons,Phoenix Suns,116 - 108
+15,05/02/2020 19:30,TD Garden,Boston Celtics,Orlando Magic,116 - 100
+15,05/02/2020 19:30,Barclays Center,Brooklyn Nets,Golden State Warriors,129 - 88
+15,05/02/2020 19:30,Scotiabank Arena,Toronto Raptors,Indiana Pacers,119 - 118
+15,05/02/2020 20:00,Target Center,Minnesota Timberwolves,Atlanta Hawks,120 - 127
+15,05/02/2020 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Cleveland Cavaliers,109 - 103
+15,05/02/2020 20:30,American Airlines Center,Dallas Mavericks,Memphis Grizzlies,107 - 121
+15,05/02/2020 21:00,Vivint Smart Home Arena,Utah Jazz,Denver Nuggets,95 - 98
+15,05/02/2020 22:00,Staples Center,LA Clippers,Miami Heat,128 - 111
+16,06/02/2020 19:30,Madison Square Garden,New York Knicks,Orlando Magic,105 - 103
+16,06/02/2020 20:00,United Center,Chicago Bulls,New Orleans Pelicans,119 - 125
+16,06/02/2020 20:00,Fiserv Forum,Milwaukee Bucks,Philadelphia 76ers,112 - 101
+16,06/02/2020 22:00,Moda Center,Portland Trail Blazers,San Antonio Spurs,125 - 117
+16,06/02/2020 22:30,Staples Center,Los Angeles Lakers,Houston Rockets,111 - 121
+16,07/02/2020 19:00,Wells Fargo Center,Philadelphia 76ers,Memphis Grizzlies,119 - 107
+16,07/02/2020 19:00,Capital One Arena,Washington Wizards,Dallas Mavericks,119 - 118
+16,07/02/2020 19:30,TD Garden,Boston Celtics,Atlanta Hawks,112 - 107
+16,07/02/2020 20:00,Bankers Life Fieldhouse,Indiana Pacers,Toronto Raptors,106 - 115
+16,07/02/2020 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Detroit Pistons,108 - 101
+16,07/02/2020 21:00,Talking Stick Resort Arena,Phoenix Suns,Houston Rockets,127 - 91
+16,07/02/2020 22:00,Golden 1 Center,Sacramento Kings,Miami Heat,105 - 97
+16,07/02/2020 22:30,Vivint Smart Home Arena,Utah Jazz,Portland Trail Blazers,117 - 114
+16,08/02/2020 17:00,Amway Center,Orlando Magic,Milwaukee Bucks,95 - 112
+16,08/02/2020 19:00,Spectrum Center,Charlotte Hornets,Dallas Mavericks,100 - 116
+16,08/02/2020 19:00,Little Caesars Arena,Detroit Pistons,New York Knicks,92 - 95
+16,08/02/2020 19:30,Bankers Life Fieldhouse,Indiana Pacers,New Orleans Pelicans,117 - 124
+16,08/02/2020 19:30,Scotiabank Arena,Toronto Raptors,Brooklyn Nets,119 - 118
+16,08/02/2020 20:00,Target Center,Minnesota Timberwolves,LA Clippers,142 - 115
+16,08/02/2020 20:30,Chase Center,Golden State Warriors,Los Angeles Lakers,120 - 125
+16,08/02/2020 21:00,Talking Stick Resort Arena,Phoenix Suns,Denver Nuggets,108 - 117
+16,08/02/2020 22:00,Golden 1 Center,Sacramento Kings,San Antonio Spurs,122 - 102
+16,09/02/2020 15:30,Chesapeake Energy Arena,Oklahoma City Thunder,Boston Celtics,111 - 112
+16,09/02/2020 18:00,State Farm Arena,Atlanta Hawks,New York Knicks,140 - 135
+16,09/02/2020 18:00,Wells Fargo Center,Philadelphia 76ers,Chicago Bulls,118 - 111
+16,09/02/2020 18:00,Capital One Arena,Washington Wizards,Memphis Grizzlies,99 - 106
+16,09/02/2020 19:00,Toyota Center,Houston Rockets,Utah Jazz,113 - 114
+16,09/02/2020 19:30,Rocket Mortgage FieldHouse,Cleveland Cavaliers,LA Clippers,92 - 133
+16,09/02/2020 21:00,Moda Center,Portland Trail Blazers,Miami Heat,115 - 109
+16,10/02/2020 19:00,Little Caesars Arena,Detroit Pistons,Charlotte Hornets,76 - 87
+16,10/02/2020 19:00,Bankers Life Fieldhouse,Indiana Pacers,Brooklyn Nets,105 - 106
+16,10/02/2020 19:00,Amway Center,Orlando Magic,Atlanta Hawks,135 - 126
+16,10/02/2020 19:30,Scotiabank Arena,Toronto Raptors,Minnesota Timberwolves,137 - 126
+16,10/02/2020 20:00,Fiserv Forum,Milwaukee Bucks,Sacramento Kings,123 - 111
+16,10/02/2020 20:30,American Airlines Center,Dallas Mavericks,Utah Jazz,119 - 123
+16,10/02/2020 21:00,Pepsi Center,Denver Nuggets,San Antonio Spurs,127 - 120
+16,10/02/2020 22:30,Chase Center,Golden State Warriors,Miami Heat,101 - 113
+16,10/02/2020 22:30,Staples Center,Los Angeles Lakers,Phoenix Suns,125 - 100
+16,11/02/2020 19:00,Wells Fargo Center,Philadelphia 76ers,LA Clippers,110 - 103
+16,11/02/2020 19:00,Capital One Arena,Washington Wizards,Chicago Bulls,126 - 114
+16,11/02/2020 20:00,Smoothie King Center,New Orleans Pelicans,Portland Trail Blazers,138 - 117
+16,11/02/2020 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,San Antonio Spurs,106 - 114
+16,11/02/2020 21:30,Toyota Center,Houston Rockets,Boston Celtics,116 - 105
+16,12/02/2020 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Atlanta Hawks,127 - 105
+16,12/02/2020 19:00,Amway Center,Orlando Magic,Detroit Pistons,116 - 112
+16,12/02/2020 19:30,Barclays Center,Brooklyn Nets,Toronto Raptors,101 - 91
+16,12/02/2020 19:30,Bankers Life Fieldhouse,Indiana Pacers,Milwaukee Bucks,118 - 111
+16,12/02/2020 19:30,Madison Square Garden,New York Knicks,Washington Wizards,96 - 114
+16,12/02/2020 20:00,FedExForum,Memphis Grizzlies,Portland Trail Blazers,111 - 104
+16,12/02/2020 20:00,Target Center,Minnesota Timberwolves,Charlotte Hornets,108 - 115
+16,12/02/2020 20:30,American Airlines Center,Dallas Mavericks,Sacramento Kings,130 - 111
+16,12/02/2020 21:00,Talking Stick Resort Arena,Phoenix Suns,Golden State Warriors,112 - 106
+16,12/02/2020 21:00,Vivint Smart Home Arena,Utah Jazz,Miami Heat,116 - 101
+16,12/02/2020 22:00,Pepsi Center,Denver Nuggets,Los Angeles Lakers,116 - 120
+16,13/02/2020 20:00,TD Garden,Boston Celtics,LA Clippers,141 - 133
+16,13/02/2020 20:00,Smoothie King Center,New Orleans Pelicans,Oklahoma City Thunder,118 - 123
+17,20/02/2020 19:00,Little Caesars Arena,Detroit Pistons,Milwaukee Bucks,106 - 126
+17,20/02/2020 19:30,State Farm Arena,Atlanta Hawks,Miami Heat,129 - 124
+17,20/02/2020 20:00,Wells Fargo Center,Philadelphia 76ers,Brooklyn Nets,112 - 104
+17,20/02/2020 20:00,United Center,Chicago Bulls,Charlotte Hornets,93 - 103
+17,20/02/2020 22:00,Golden 1 Center,Sacramento Kings,Memphis Grizzlies,129 - 125
+17,20/02/2020 22:30,Chase Center,Golden State Warriors,Houston Rockets,105 - 135
+17,21/02/2020 19:00,Amway Center,Orlando Magic,Dallas Mavericks,106 - 122
+17,21/02/2020 19:00,Capital One Arena,Washington Wizards,Cleveland Cavaliers,108 - 113
+17,21/02/2020 19:30,Madison Square Garden,New York Knicks,Indiana Pacers,98 - 106
+17,21/02/2020 19:30,Scotiabank Arena,Toronto Raptors,Phoenix Suns,118 - 101
+17,21/02/2020 20:00,Target Center,Minnesota Timberwolves,Boston Celtics,117 - 127
+17,21/02/2020 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Denver Nuggets,113 - 101
+17,21/02/2020 21:00,Vivint Smart Home Arena,Utah Jazz,San Antonio Spurs,104 - 113
+17,21/02/2020 22:30,Staples Center,Los Angeles Lakers,Memphis Grizzlies,117 - 105
+17,21/02/2020 22:30,Moda Center,Portland Trail Blazers,New Orleans Pelicans,115 - 128
+17,22/02/2020 15:30,Staples Center,LA Clippers,Sacramento Kings,103 - 112
+17,22/02/2020 19:00,Spectrum Center,Charlotte Hornets,Brooklyn Nets,86 - 115
+17,22/02/2020 19:30,State Farm Arena,Atlanta Hawks,Dallas Mavericks,111 - 107
+17,22/02/2020 20:00,AmericanAirlines Arena,Miami Heat,Cleveland Cavaliers,124 - 105
+17,22/02/2020 20:00,United Center,Chicago Bulls,Phoenix Suns,104 - 112
+17,22/02/2020 20:30,Fiserv Forum,Milwaukee Bucks,Philadelphia 76ers,119 - 98
+17,22/02/2020 21:00,Vivint Smart Home Arena,Utah Jazz,Houston Rockets,110 - 120
+17,23/02/2020 15:30,Staples Center,Los Angeles Lakers,Boston Celtics,114 - 112
+17,23/02/2020 18:00,Scotiabank Arena,Toronto Raptors,Indiana Pacers,127 - 81
+17,23/02/2020 18:00,Pepsi Center,Denver Nuggets,Minnesota Timberwolves,128 - 116
+17,23/02/2020 19:00,United Center,Chicago Bulls,Washington Wizards,126 - 117
+17,23/02/2020 19:00,Chesapeake Energy Arena,Oklahoma City Thunder,San Antonio Spurs,131 - 103
+17,23/02/2020 20:30,Chase Center,Golden State Warriors,New Orleans Pelicans,101 - 115
+17,23/02/2020 21:00,Moda Center,Portland Trail Blazers,Detroit Pistons,107 - 104
+17,24/02/2020 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Miami Heat,125 - 119
+17,24/02/2020 19:00,Wells Fargo Center,Philadelphia 76ers,Atlanta Hawks,129 - 112
+17,24/02/2020 19:00,Capital One Arena,Washington Wizards,Milwaukee Bucks,134 - 137
+17,24/02/2020 19:30,Barclays Center,Brooklyn Nets,Orlando Magic,113 - 115
+17,24/02/2020 20:00,Toyota Center,Houston Rockets,New York Knicks,123 - 112
+17,24/02/2020 20:30,American Airlines Center,Dallas Mavericks,Minnesota Timberwolves,139 - 123
+17,24/02/2020 21:00,Vivint Smart Home Arena,Utah Jazz,Phoenix Suns,111 - 131
+17,24/02/2020 22:30,Staples Center,LA Clippers,Memphis Grizzlies,124 - 97
+17,25/02/2020 19:00,Bankers Life Fieldhouse,Indiana Pacers,Charlotte Hornets,119 - 80
+17,25/02/2020 19:30,Scotiabank Arena,Toronto Raptors,Milwaukee Bucks,97 - 108
+17,25/02/2020 20:00,United Center,Chicago Bulls,Oklahoma City Thunder,122 - 124
+17,25/02/2020 21:00,Pepsi Center,Denver Nuggets,Detroit Pistons,115 - 98
+17,25/02/2020 22:00,Staples Center,Los Angeles Lakers,New Orleans Pelicans,118 - 109
+17,25/02/2020 22:00,Moda Center,Portland Trail Blazers,Boston Celtics,106 - 118
+17,25/02/2020 22:30,Chase Center,Golden State Warriors,Sacramento Kings,94 - 112
+17,26/02/2020 19:00,Spectrum Center,Charlotte Hornets,New York Knicks,107 - 101
+17,26/02/2020 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Philadelphia 76ers,108 - 94
+17,26/02/2020 19:00,Capital One Arena,Washington Wizards,Brooklyn Nets,110 - 106
+17,26/02/2020 19:30,State Farm Arena,Atlanta Hawks,Orlando Magic,120 - 130
+17,26/02/2020 19:30,AmericanAirlines Arena,Miami Heat,Minnesota Timberwolves,126 - 129
+17,26/02/2020 20:00,Toyota Center,Houston Rockets,Memphis Grizzlies,140 - 112
+17,26/02/2020 20:30,AT&T Center,San Antonio Spurs,Dallas Mavericks,103 - 109
+17,26/02/2020 21:00,Talking Stick Resort Arena,Phoenix Suns,LA Clippers,92 - 102
+17,26/02/2020 22:30,Vivint Smart Home Arena,Utah Jazz,Boston Celtics,103 - 114
+18,27/02/2020 19:00,Wells Fargo Center,Philadelphia 76ers,New York Knicks,115 - 106
+18,27/02/2020 20:00,Bankers Life Fieldhouse,Indiana Pacers,Portland Trail Blazers,106 - 100
+18,27/02/2020 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Sacramento Kings,112 - 108
+18,27/02/2020 22:30,Chase Center,Golden State Warriors,Los Angeles Lakers,86 - 116
+18,28/02/2020 19:00,Amway Center,Orlando Magic,Minnesota Timberwolves,136 - 125
+18,28/02/2020 19:30,State Farm Arena,Atlanta Hawks,Brooklyn Nets,141 - 118
+18,28/02/2020 19:30,Scotiabank Arena,Toronto Raptors,Charlotte Hornets,96 - 99
+18,28/02/2020 20:00,AmericanAirlines Arena,Miami Heat,Dallas Mavericks,126 - 118
+18,28/02/2020 20:00,FedExForum,Memphis Grizzlies,Sacramento Kings,101 - 104
+18,28/02/2020 20:00,Fiserv Forum,Milwaukee Bucks,Oklahoma City Thunder,133 - 86
+18,28/02/2020 20:00,Smoothie King Center,New Orleans Pelicans,Cleveland Cavaliers,116 - 104
+18,28/02/2020 21:00,Talking Stick Resort Arena,Phoenix Suns,Detroit Pistons,111 - 113
+18,28/02/2020 21:00,Vivint Smart Home Arena,Utah Jazz,Washington Wizards,129 - 119
+18,28/02/2020 22:30,Staples Center,LA Clippers,Denver Nuggets,132 - 103
+18,29/02/2020 17:00,Madison Square Garden,New York Knicks,Chicago Bulls,125 - 115
+18,29/02/2020 19:30,State Farm Arena,Atlanta Hawks,Portland Trail Blazers,129 - 117
+18,29/02/2020 19:30,AmericanAirlines Arena,Miami Heat,Brooklyn Nets,116 - 113
+18,29/02/2020 20:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Indiana Pacers,104 - 113
+18,29/02/2020 20:00,FedExForum,Memphis Grizzlies,Los Angeles Lakers,105 - 88
+18,29/02/2020 20:30,TD Garden,Boston Celtics,Houston Rockets,110 - 111
+18,29/02/2020 20:30,AT&T Center,San Antonio Spurs,Orlando Magic,114 - 113
+18,29/02/2020 21:00,Talking Stick Resort Arena,Phoenix Suns,Golden State Warriors,99 - 115
+18,01/03/2020 13:00,Spectrum Center,Charlotte Hornets,Milwaukee Bucks,85 - 93
+18,01/03/2020 15:30,Target Center,Minnesota Timberwolves,Dallas Mavericks,91 - 111
+18,01/03/2020 15:30,Staples Center,LA Clippers,Philadelphia 76ers,136 - 130
+18,01/03/2020 18:00,Pepsi Center,Denver Nuggets,Toronto Raptors,133 - 118
+18,01/03/2020 18:00,Golden 1 Center,Sacramento Kings,Detroit Pistons,106 - 100
+18,01/03/2020 20:00,Smoothie King Center,New Orleans Pelicans,Los Angeles Lakers,114 - 122
+18,01/03/2020 20:30,Chase Center,Golden State Warriors,Washington Wizards,110 - 124
+18,02/03/2020 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Utah Jazz,113 - 126
+18,02/03/2020 19:00,Madison Square Garden,New York Knicks,Houston Rockets,125 - 123
+18,02/03/2020 19:00,Amway Center,Orlando Magic,Portland Trail Blazers,107 - 130
+18,02/03/2020 19:30,State Farm Arena,Atlanta Hawks,Memphis Grizzlies,88 - 127
+18,02/03/2020 19:30,AmericanAirlines Arena,Miami Heat,Milwaukee Bucks,105 - 89
+18,02/03/2020 20:00,United Center,Chicago Bulls,Dallas Mavericks,109 - 107
+18,02/03/2020 20:30,AT&T Center,San Antonio Spurs,Indiana Pacers,111 - 116
+18,03/03/2020 19:00,Spectrum Center,Charlotte Hornets,San Antonio Spurs,103 - 104
+18,03/03/2020 19:30,TD Garden,Boston Celtics,Brooklyn Nets,120 - 129
+18,03/03/2020 20:00,Smoothie King Center,New Orleans Pelicans,Minnesota Timberwolves,134 - 139
+18,03/03/2020 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,LA Clippers,94 - 109
+18,03/03/2020 21:00,Pepsi Center,Denver Nuggets,Golden State Warriors,100 - 116
+18,03/03/2020 21:00,Talking Stick Resort Arena,Phoenix Suns,Toronto Raptors,114 - 123
+18,03/03/2020 22:00,Staples Center,Los Angeles Lakers,Philadelphia 76ers,120 - 107
+18,03/03/2020 22:00,Golden 1 Center,Sacramento Kings,Washington Wizards,133 - 126
+18,04/03/2020 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Boston Celtics,106 - 112
+18,04/03/2020 19:00,Little Caesars Arena,Detroit Pistons,Oklahoma City Thunder,107 - 114
+18,04/03/2020 19:00,Fiserv Forum,Milwaukee Bucks,Indiana Pacers,119 - 100
+18,04/03/2020 19:30,AmericanAirlines Arena,Miami Heat,Orlando Magic,116 - 113
+18,04/03/2020 19:30,Barclays Center,Brooklyn Nets,Memphis Grizzlies,79 - 118
+18,04/03/2020 19:30,Madison Square Garden,New York Knicks,Utah Jazz,104 - 112
+18,04/03/2020 20:00,Target Center,Minnesota Timberwolves,Chicago Bulls,115 - 108
+18,04/03/2020 21:30,American Airlines Center,Dallas Mavericks,New Orleans Pelicans,127 - 123
+18,04/03/2020 22:00,Moda Center,Portland Trail Blazers,Washington Wizards,125 - 104
+19,05/03/2020 19:00,Spectrum Center,Charlotte Hornets,Denver Nuggets,112 - 114
+19,05/03/2020 20:00,Toyota Center,Houston Rockets,LA Clippers,105 - 120
+19,05/03/2020 22:00,Golden 1 Center,Sacramento Kings,Philadelphia 76ers,108 - 125
+19,05/03/2020 22:30,Chase Center,Golden State Warriors,Toronto Raptors,113 - 121
+19,06/03/2020 19:00,Capital One Arena,Washington Wizards,Atlanta Hawks,118 - 112
+19,06/03/2020 19:30,Barclays Center,Brooklyn Nets,San Antonio Spurs,139 - 120
+19,06/03/2020 19:30,Madison Square Garden,New York Knicks,Oklahoma City Thunder,103 - 126
+19,06/03/2020 20:00,TD Garden,Boston Celtics,Utah Jazz,94 - 99
+19,06/03/2020 20:00,United Center,Chicago Bulls,Indiana Pacers,102 - 108
+19,06/03/2020 20:00,Target Center,Minnesota Timberwolves,Orlando Magic,118 - 132
+19,06/03/2020 20:00,Smoothie King Center,New Orleans Pelicans,Miami Heat,110 - 104
+19,06/03/2020 20:30,American Airlines Center,Dallas Mavericks,Memphis Grizzlies,121 - 96
+19,06/03/2020 21:00,Talking Stick Resort Arena,Phoenix Suns,Portland Trail Blazers,127 - 117
+19,06/03/2020 22:30,Staples Center,Los Angeles Lakers,Milwaukee Bucks,113 - 103
+19,07/03/2020 17:00,Spectrum Center,Charlotte Hornets,Houston Rockets,108 - 99
+19,07/03/2020 19:00,Little Caesars Arena,Detroit Pistons,Utah Jazz,105 - 111
+19,07/03/2020 19:30,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Denver Nuggets,104 - 102
+19,07/03/2020 20:00,FedExForum,Memphis Grizzlies,Atlanta Hawks,118 - 101
+19,07/03/2020 20:30,Chase Center,Golden State Warriors,Philadelphia 76ers,118 - 114
+19,07/03/2020 22:00,Moda Center,Portland Trail Blazers,Sacramento Kings,111 - 123
+19,08/03/2020 15:00,Barclays Center,Brooklyn Nets,Chicago Bulls,110 - 107
+19,08/03/2020 15:30,Target Center,Minnesota Timberwolves,New Orleans Pelicans,107 - 120
+19,08/03/2020 15:30,Staples Center,LA Clippers,Los Angeles Lakers,103 - 112
+19,08/03/2020 18:00,TD Garden,Boston Celtics,Oklahoma City Thunder,104 - 105
+19,08/03/2020 18:00,Talking Stick Resort Arena,Phoenix Suns,Milwaukee Bucks,140 - 131
+19,08/03/2020 19:00,Capital One Arena,Washington Wizards,Miami Heat,89 - 100
+19,08/03/2020 19:00,American Airlines Center,Dallas Mavericks,Indiana Pacers,109 - 112
+19,08/03/2020 19:00,Toyota Center,Houston Rockets,Orlando Magic,106 - 126
+19,08/03/2020 19:30,Rocket Mortgage FieldHouse,Cleveland Cavaliers,San Antonio Spurs,132 - 129
+19,08/03/2020 19:30,Madison Square Garden,New York Knicks,Detroit Pistons,96 - 84
+19,08/03/2020 21:00,Golden 1 Center,Sacramento Kings,Toronto Raptors,113 - 118
+19,09/03/2020 19:30,State Farm Arena,Atlanta Hawks,Charlotte Hornets,143 - 138
+19,09/03/2020 21:00,Pepsi Center,Denver Nuggets,Milwaukee Bucks,109 - 95
+19,09/03/2020 21:00,Vivint Smart Home Arena,Utah Jazz,Toronto Raptors,92 - 101
+19,10/03/2020 19:00,Bankers Life Fieldhouse,Indiana Pacers,Boston Celtics,111 - 114
+19,10/03/2020 19:00,Capital One Arena,Washington Wizards,New York Knicks,122 - 115
+19,10/03/2020 20:00,United Center,Chicago Bulls,Cleveland Cavaliers,108 - 103
+19,10/03/2020 20:00,Toyota Center,Houston Rockets,Minnesota Timberwolves,117 - 111
+19,10/03/2020 20:00,FedExForum,Memphis Grizzlies,Orlando Magic,115 - 120
+19,10/03/2020 20:00,AT&T Center,San Antonio Spurs,Dallas Mavericks,119 - 109
+19,10/03/2020 22:00,Moda Center,Portland Trail Blazers,Phoenix Suns,121 - 105
+19,10/03/2020 22:30,Chase Center,Golden State Warriors,LA Clippers,107 - 131
+19,10/03/2020 22:30,Staples Center,Los Angeles Lakers,Brooklyn Nets,102 - 104
+19,11/03/2020 19:00,Wells Fargo Center,Philadelphia 76ers,Detroit Pistons,124 - 106
+19,11/03/2020 19:30,State Farm Arena,Atlanta Hawks,New York Knicks,131 - 136
+19,11/03/2020 19:30,AmericanAirlines Arena,Miami Heat,Charlotte Hornets,98 - 109
+19,11/03/2020 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Utah Jazz,
+19,11/03/2020 20:00,American Airlines Center,Dallas Mavericks,Denver Nuggets,113 - 97
+19,11/03/2020 22:30,Golden 1 Center,Sacramento Kings,New Orleans Pelicans,
+19,12/03/2020 19:00,Amway Center,Orlando Magic,Chicago Bulls,
+20,12/03/2020 20:00,Fiserv Forum,Milwaukee Bucks,Boston Celtics,
+20,12/03/2020 22:00,Moda Center,Portland Trail Blazers,Memphis Grizzlies,
+20,12/03/2020 22:30,Chase Center,Golden State Warriors,Brooklyn Nets,
+20,12/03/2020 22:30,Staples Center,Los Angeles Lakers,Houston Rockets,
+20,13/03/2020 19:00,Spectrum Center,Charlotte Hornets,Cleveland Cavaliers,
+20,13/03/2020 19:30,TD Garden,Boston Celtics,Washington Wizards,
+20,13/03/2020 20:00,AmericanAirlines Arena,Miami Heat,New York Knicks,
+20,13/03/2020 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Minnesota Timberwolves,
+20,13/03/2020 20:30,AT&T Center,San Antonio Spurs,Denver Nuggets,
+20,13/03/2020 21:00,Vivint Smart Home Arena,Utah Jazz,New Orleans Pelicans,
+20,13/03/2020 22:30,Staples Center,LA Clippers,Brooklyn Nets,
+20,14/03/2020 14:00,American Airlines Center,Dallas Mavericks,Phoenix Suns,
+20,14/03/2020 19:30,State Farm Arena,Atlanta Hawks,Cleveland Cavaliers,
+20,14/03/2020 19:30,Wells Fargo Center,Philadelphia 76ers,Indiana Pacers,
+20,14/03/2020 19:30,Scotiabank Arena,Toronto Raptors,Detroit Pistons,
+20,14/03/2020 20:00,AmericanAirlines Arena,Miami Heat,Chicago Bulls,
+20,14/03/2020 20:30,Fiserv Forum,Milwaukee Bucks,Golden State Warriors,
+20,14/03/2020 20:30,AT&T Center,San Antonio Spurs,Minnesota Timberwolves,
+20,14/03/2020 21:00,Vivint Smart Home Arena,Utah Jazz,Memphis Grizzlies,
+20,14/03/2020 22:30,Staples Center,LA Clippers,New Orleans Pelicans,
+20,15/03/2020 15:30,Moda Center,Portland Trail Blazers,Houston Rockets,
+20,15/03/2020 18:00,Amway Center,Orlando Magic,Charlotte Hornets,
+20,15/03/2020 18:00,Capital One Arena,Washington Wizards,Oklahoma City Thunder,
+20,15/03/2020 20:00,United Center,Chicago Bulls,Boston Celtics,
+20,15/03/2020 21:00,Staples Center,Los Angeles Lakers,Denver Nuggets,
+20,15/03/2020 21:00,Golden 1 Center,Sacramento Kings,Brooklyn Nets,
+20,16/03/2020 19:00,Wells Fargo Center,Philadelphia 76ers,Washington Wizards,
+20,16/03/2020 20:00,Scotiabank Arena,Toronto Raptors,Golden State Warriors,
+20,16/03/2020 20:00,Fiserv Forum,Milwaukee Bucks,Miami Heat,
+20,16/03/2020 20:00,Smoothie King Center,New Orleans Pelicans,Atlanta Hawks,
+20,16/03/2020 20:30,AT&T Center,San Antonio Spurs,Memphis Grizzlies,
+20,16/03/2020 21:00,Vivint Smart Home Arena,Utah Jazz,Los Angeles Lakers,
+20,16/03/2020 22:30,Staples Center,LA Clippers,Dallas Mavericks,
+20,17/03/2020 19:00,Little Caesars Arena,Detroit Pistons,Orlando Magic,
+20,17/03/2020 19:30,Madison Square Garden,New York Knicks,Charlotte Hornets,
+20,17/03/2020 20:00,Toyota Center,Houston Rockets,Cleveland Cavaliers,
+20,17/03/2020 20:00,FedExForum,Memphis Grizzlies,Oklahoma City Thunder,
+20,17/03/2020 22:00,Moda Center,Portland Trail Blazers,Minnesota Timberwolves,
+20,17/03/2020 22:00,Golden 1 Center,Sacramento Kings,Dallas Mavericks,
+20,18/03/2020 19:00,Wells Fargo Center,Philadelphia 76ers,Toronto Raptors,
+20,18/03/2020 19:30,State Farm Arena,Atlanta Hawks,Oklahoma City Thunder,
+20,18/03/2020 19:30,TD Garden,Boston Celtics,New York Knicks,
+20,18/03/2020 19:30,Barclays Center,Brooklyn Nets,Washington Wizards,
+20,18/03/2020 19:30,Bankers Life Fieldhouse,Indiana Pacers,Golden State Warriors,
+20,18/03/2020 20:00,United Center,Chicago Bulls,Miami Heat,
+20,18/03/2020 20:00,Smoothie King Center,New Orleans Pelicans,San Antonio Spurs,
+20,18/03/2020 21:00,Pepsi Center,Denver Nuggets,LA Clippers,
+20,18/03/2020 22:00,Staples Center,Los Angeles Lakers,Utah Jazz,
+20,18/03/2020 22:00,Talking Stick Resort Arena,Phoenix Suns,Minnesota Timberwolves,
+20,19/03/2020 19:00,Spectrum Center,Charlotte Hornets,Philadelphia 76ers,
+20,19/03/2020 19:00,Amway Center,Orlando Magic,Cleveland Cavaliers,
+21,19/03/2020 20:00,Toyota Center,Houston Rockets,Sacramento Kings,
+21,19/03/2020 20:00,Fiserv Forum,Milwaukee Bucks,Memphis Grizzlies,
+21,19/03/2020 22:00,Moda Center,Portland Trail Blazers,Dallas Mavericks,
+21,20/03/2020 19:00,Little Caesars Arena,Detroit Pistons,Golden State Warriors,
+21,20/03/2020 19:00,Bankers Life Fieldhouse,Indiana Pacers,Miami Heat,
+21,20/03/2020 19:30,State Farm Arena,Atlanta Hawks,Washington Wizards,
+21,20/03/2020 19:30,Scotiabank Arena,Toronto Raptors,Boston Celtics,
+21,20/03/2020 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Denver Nuggets,
+21,20/03/2020 20:30,AT&T Center,San Antonio Spurs,Chicago Bulls,
+21,20/03/2020 21:00,Vivint Smart Home Arena,Utah Jazz,Minnesota Timberwolves,
+21,20/03/2020 22:30,Staples Center,LA Clippers,Phoenix Suns,
+21,21/03/2020 18:00,Barclays Center,Brooklyn Nets,Boston Celtics,
+21,21/03/2020 19:00,Spectrum Center,Charlotte Hornets,Los Angeles Lakers,
+21,21/03/2020 19:00,Bankers Life Fieldhouse,Indiana Pacers,Cleveland Cavaliers,
+21,21/03/2020 19:00,Amway Center,Orlando Magic,Sacramento Kings,
+21,21/03/2020 19:00,Wells Fargo Center,Philadelphia 76ers,Atlanta Hawks,
+21,21/03/2020 19:30,Madison Square Garden,New York Knicks,Golden State Warriors,
+21,21/03/2020 20:00,Capital One Arena,Washington Wizards,Milwaukee Bucks,
+21,21/03/2020 20:00,Toyota Center,Houston Rockets,Chicago Bulls,
+21,21/03/2020 20:00,FedExForum,Memphis Grizzlies,New Orleans Pelicans,
+21,21/03/2020 22:00,Talking Stick Resort Arena,Phoenix Suns,Dallas Mavericks,
+21,22/03/2020 18:00,Little Caesars Arena,Detroit Pistons,Los Angeles Lakers,
+21,22/03/2020 18:00,Scotiabank Arena,Toronto Raptors,Denver Nuggets,
+21,22/03/2020 19:00,Target Center,Minnesota Timberwolves,Portland Trail Blazers,
+21,22/03/2020 19:00,Smoothie King Center,New Orleans Pelicans,Sacramento Kings,
+21,22/03/2020 19:00,AT&T Center,San Antonio Spurs,Utah Jazz,
+21,23/03/2020 19:00,Bankers Life Fieldhouse,Indiana Pacers,Phoenix Suns,
+21,23/03/2020 19:00,Madison Square Garden,New York Knicks,LA Clippers,
+21,23/03/2020 19:00,Capital One Arena,Washington Wizards,Boston Celtics,
+21,23/03/2020 19:30,Barclays Center,Brooklyn Nets,Orlando Magic,
+21,23/03/2020 19:30,AmericanAirlines Arena,Miami Heat,Oklahoma City Thunder,
+21,23/03/2020 20:00,United Center,Chicago Bulls,Denver Nuggets,
+21,23/03/2020 20:00,Fiserv Forum,Milwaukee Bucks,Detroit Pistons,
+21,23/03/2020 20:30,American Airlines Center,Dallas Mavericks,Houston Rockets,
+21,24/03/2020 19:00,Spectrum Center,Charlotte Hornets,Portland Trail Blazers,
+21,24/03/2020 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Sacramento Kings,
+21,24/03/2020 19:30,Scotiabank Arena,Toronto Raptors,Los Angeles Lakers,
+21,24/03/2020 20:00,Target Center,Minnesota Timberwolves,Philadelphia 76ers,
+21,24/03/2020 20:00,Smoothie King Center,New Orleans Pelicans,Memphis Grizzlies,
+21,24/03/2020 22:00,Vivint Smart Home Arena,Utah Jazz,San Antonio Spurs,
+21,25/03/2020 19:00,Barclays Center,Brooklyn Nets,LA Clippers,
+21,25/03/2020 19:00,Little Caesars Arena,Detroit Pistons,Portland Trail Blazers,
+21,25/03/2020 19:00,Amway Center,Orlando Magic,Indiana Pacers,
+21,25/03/2020 19:00,Capital One Arena,Washington Wizards,Phoenix Suns,
+21,25/03/2020 19:30,AmericanAirlines Arena,Miami Heat,Denver Nuggets,
+21,25/03/2020 19:30,Madison Square Garden,New York Knicks,Toronto Raptors,
+21,25/03/2020 20:00,FedExForum,Memphis Grizzlies,Boston Celtics,
+21,25/03/2020 21:30,Fiserv Forum,Milwaukee Bucks,Houston Rockets,
+21,25/03/2020 22:30,Chase Center,Golden State Warriors,Atlanta Hawks,
+21,26/03/2020 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Los Angeles Lakers,
+22,26/03/2020 20:00,United Center,Chicago Bulls,Philadelphia 76ers,
+22,26/03/2020 20:00,Target Center,Minnesota Timberwolves,San Antonio Spurs,
+22,26/03/2020 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Charlotte Hornets,
+22,26/03/2020 20:30,American Airlines Center,Dallas Mavericks,Utah Jazz,
+22,26/03/2020 22:00,Golden 1 Center,Sacramento Kings,Atlanta Hawks,
+22,27/03/2020 19:00,Little Caesars Arena,Detroit Pistons,LA Clippers,
+22,27/03/2020 19:00,Bankers Life Fieldhouse,Indiana Pacers,Houston Rockets,
+22,27/03/2020 19:00,Amway Center,Orlando Magic,Brooklyn Nets,
+22,27/03/2020 19:00,Wells Fargo Center,Philadelphia 76ers,Phoenix Suns,
+22,27/03/2020 19:30,TD Garden,Boston Celtics,Portland Trail Blazers,
+22,27/03/2020 20:00,Smoothie King Center,New Orleans Pelicans,New York Knicks,
+22,27/03/2020 20:30,Fiserv Forum,Milwaukee Bucks,Washington Wizards,
+22,27/03/2020 21:00,Pepsi Center,Denver Nuggets,San Antonio Spurs,
+22,28/03/2020 18:00,Barclays Center,Brooklyn Nets,Cleveland Cavaliers,
+22,28/03/2020 19:00,Spectrum Center,Charlotte Hornets,LA Clippers,
+22,28/03/2020 20:00,AmericanAirlines Arena,Miami Heat,Phoenix Suns,
+22,28/03/2020 20:00,Capital One Arena,Washington Wizards,Los Angeles Lakers,
+22,28/03/2020 20:00,United Center,Chicago Bulls,New York Knicks,
+22,28/03/2020 20:00,FedExForum,Memphis Grizzlies,Toronto Raptors,
+22,28/03/2020 20:30,Chase Center,Golden State Warriors,Oklahoma City Thunder,
+22,28/03/2020 21:00,Vivint Smart Home Arena,Utah Jazz,Atlanta Hawks,
+22,29/03/2020 15:00,American Airlines Center,Dallas Mavericks,Milwaukee Bucks,
+22,29/03/2020 17:00,Little Caesars Arena,Detroit Pistons,Houston Rockets,
+22,29/03/2020 18:00,TD Garden,Boston Celtics,Minnesota Timberwolves,
+22,29/03/2020 18:00,Amway Center,Orlando Magic,New Orleans Pelicans,
+22,29/03/2020 19:30,Wells Fargo Center,Philadelphia 76ers,Portland Trail Blazers,
+22,29/03/2020 20:30,Chase Center,Golden State Warriors,San Antonio Spurs,
+22,29/03/2020 21:00,Golden 1 Center,Sacramento Kings,Indiana Pacers,
+22,30/03/2020 19:00,Spectrum Center,Charlotte Hornets,Miami Heat,
+22,30/03/2020 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Phoenix Suns,
+22,30/03/2020 19:30,Barclays Center,Brooklyn Nets,Portland Trail Blazers,
+22,30/03/2020 19:30,Scotiabank Arena,Toronto Raptors,Memphis Grizzlies,
+22,30/03/2020 20:00,Target Center,Minnesota Timberwolves,Los Angeles Lakers,
+22,30/03/2020 21:00,Pepsi Center,Denver Nuggets,Oklahoma City Thunder,
+22,30/03/2020 21:00,Vivint Smart Home Arena,Utah Jazz,Chicago Bulls,
+22,30/03/2020 22:30,Staples Center,LA Clippers,Indiana Pacers,
+22,31/03/2020 19:30,State Farm Arena,Atlanta Hawks,New Orleans Pelicans,
+22,31/03/2020 19:30,Wells Fargo Center,Philadelphia 76ers,Houston Rockets,
+22,31/03/2020 22:00,Chase Center,Golden State Warriors,Denver Nuggets,
+22,31/03/2020 22:00,Golden 1 Center,Sacramento Kings,San Antonio Spurs,
+22,01/04/2020 19:00,Amway Center,Orlando Magic,Charlotte Hornets,
+22,01/04/2020 19:00,Capital One Arena,Washington Wizards,New Orleans Pelicans,
+22,01/04/2020 19:30,TD Garden,Boston Celtics,Miami Heat,
+22,01/04/2020 19:30,Barclays Center,Brooklyn Nets,Detroit Pistons,
+22,01/04/2020 20:00,FedExForum,Memphis Grizzlies,New York Knicks,
+22,01/04/2020 20:00,Target Center,Minnesota Timberwolves,Dallas Mavericks,
+22,01/04/2020 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Phoenix Suns,
+22,01/04/2020 21:00,Fiserv Forum,Milwaukee Bucks,Toronto Raptors,
+22,01/04/2020 21:00,Vivint Smart Home Arena,Utah Jazz,Cleveland Cavaliers,
+22,01/04/2020 22:30,Staples Center,Los Angeles Lakers,Indiana Pacers,
+23,02/04/2020 20:00,Toyota Center,Houston Rockets,Golden State Warriors,
+23,02/04/2020 22:00,Golden 1 Center,Sacramento Kings,LA Clippers,
+23,02/04/2020 22:30,Moda Center,Portland Trail Blazers,Utah Jazz,
+23,03/04/2020 19:00,Little Caesars Arena,Detroit Pistons,Miami Heat,
+23,03/04/2020 19:00,Bankers Life Fieldhouse,Indiana Pacers,Brooklyn Nets,
+23,03/04/2020 19:00,Capital One Arena,Washington Wizards,Philadelphia 76ers,
+23,03/04/2020 19:30,State Farm Arena,Atlanta Hawks,Charlotte Hornets,
+23,03/04/2020 19:30,TD Garden,Boston Celtics,Orlando Magic,
+23,03/04/2020 19:30,Madison Square Garden,New York Knicks,Minnesota Timberwolves,
+23,03/04/2020 19:30,Scotiabank Arena,Toronto Raptors,Milwaukee Bucks,
+23,03/04/2020 20:00,FedExForum,Memphis Grizzlies,Dallas Mavericks,
+23,03/04/2020 20:30,AT&T Center,San Antonio Spurs,Golden State Warriors,
+23,03/04/2020 21:00,Pepsi Center,Denver Nuggets,Chicago Bulls,
+23,03/04/2020 22:00,Talking Stick Resort Arena,Phoenix Suns,Cleveland Cavaliers,
+23,04/04/2020 15:30,Staples Center,LA Clippers,Oklahoma City Thunder,
+23,04/04/2020 22:00,Golden 1 Center,Sacramento Kings,Los Angeles Lakers,
+23,05/04/2020 13:00,Spectrum Center,Charlotte Hornets,Atlanta Hawks,
+23,05/04/2020 13:00,Wells Fargo Center,Philadelphia 76ers,Orlando Magic,
+23,05/04/2020 15:30,TD Garden,Boston Celtics,Milwaukee Bucks,
+23,05/04/2020 17:00,Bankers Life Fieldhouse,Indiana Pacers,Washington Wizards,
+23,05/04/2020 17:00,Madison Square Garden,New York Knicks,Miami Heat,
+23,05/04/2020 18:00,Barclays Center,Brooklyn Nets,Dallas Mavericks,
+23,05/04/2020 18:00,Pepsi Center,Denver Nuggets,Utah Jazz,
+23,05/04/2020 18:00,Talking Stick Resort Arena,Phoenix Suns,Chicago Bulls,
+23,05/04/2020 19:00,Toyota Center,Houston Rockets,Toronto Raptors,
+23,05/04/2020 19:00,Target Center,Minnesota Timberwolves,Detroit Pistons,
+23,05/04/2020 19:00,AT&T Center,San Antonio Spurs,New Orleans Pelicans,
+23,05/04/2020 21:00,Moda Center,Portland Trail Blazers,Memphis Grizzlies,
+23,05/04/2020 21:00,Golden 1 Center,Sacramento Kings,Cleveland Cavaliers,
+23,05/04/2020 21:30,Staples Center,Los Angeles Lakers,Oklahoma City Thunder,
+23,06/04/2020 22:00,Staples Center,LA Clippers,Chicago Bulls,
+23,07/04/2020 19:00,Capital One Arena,Washington Wizards,Toronto Raptors,
+23,07/04/2020 19:30,State Farm Arena,Atlanta Hawks,Detroit Pistons,
+23,07/04/2020 19:30,AmericanAirlines Arena,Miami Heat,Indiana Pacers,
+23,07/04/2020 19:30,Wells Fargo Center,Philadelphia 76ers,Milwaukee Bucks,
+23,07/04/2020 20:00,Target Center,Minnesota Timberwolves,Phoenix Suns,
+23,07/04/2020 20:00,Smoothie King Center,New Orleans Pelicans,Charlotte Hornets,
+23,07/04/2020 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Brooklyn Nets,
+23,07/04/2020 20:30,American Airlines Center,Dallas Mavericks,Houston Rockets,
+23,07/04/2020 20:30,AT&T Center,San Antonio Spurs,Sacramento Kings,
+23,07/04/2020 21:00,Pepsi Center,Denver Nuggets,Memphis Grizzlies,
+23,07/04/2020 22:00,Vivint Smart Home Arena,Utah Jazz,LA Clippers,
+23,07/04/2020 22:00,Moda Center,Portland Trail Blazers,Cleveland Cavaliers,
+23,07/04/2020 22:00,Staples Center,Los Angeles Lakers,Golden State Warriors,
+23,08/04/2020 19:00,TD Garden,Boston Celtics,Indiana Pacers,
+23,08/04/2020 19:00,Spectrum Center,Charlotte Hornets,Toronto Raptors,
+23,08/04/2020 19:30,Madison Square Garden,New York Knicks,Orlando Magic,
+23,08/04/2020 21:30,Toyota Center,Houston Rockets,San Antonio Spurs,
+23,08/04/2020 22:30,Staples Center,Los Angeles Lakers,Chicago Bulls,
+23,08/04/2020 22:30,Chase Center,Golden State Warriors,Cleveland Cavaliers,
+23,09/04/2020 19:30,AmericanAirlines Arena,Miami Heat,Detroit Pistons,
+24,09/04/2020 20:00,Fiserv Forum,Milwaukee Bucks,Brooklyn Nets,
+24,09/04/2020 20:00,Target Center,Minnesota Timberwolves,Sacramento Kings,
+24,09/04/2020 20:00,Smoothie King Center,New Orleans Pelicans,Phoenix Suns,
+24,09/04/2020 22:00,Moda Center,Portland Trail Blazers,Denver Nuggets,
+24,09/04/2020 22:30,Staples Center,Los Angeles Lakers,LA Clippers,
+24,10/04/2020 19:00,Amway Center,Orlando Magic,Boston Celtics,
+24,10/04/2020 19:30,Scotiabank Arena,Toronto Raptors,Atlanta Hawks,
+24,10/04/2020 20:00,Toyota Center,Houston Rockets,Washington Wizards,
+24,10/04/2020 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,New York Knicks,
+24,10/04/2020 20:30,AT&T Center,San Antonio Spurs,Philadelphia 76ers,
+24,11/04/2020 15:00,American Airlines Center,Dallas Mavericks,Detroit Pistons,
+24,11/04/2020 19:00,Spectrum Center,Charlotte Hornets,Washington Wizards,
+24,11/04/2020 19:00,Bankers Life Fieldhouse,Indiana Pacers,Orlando Magic,
+24,11/04/2020 19:00,Smoothie King Center,New Orleans Pelicans,Philadelphia 76ers,
+24,11/04/2020 19:30,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Milwaukee Bucks,
+24,11/04/2020 20:00,AmericanAirlines Arena,Miami Heat,Boston Celtics,
+24,11/04/2020 20:00,United Center,Chicago Bulls,Brooklyn Nets,
+24,11/04/2020 20:00,FedExForum,Memphis Grizzlies,Oklahoma City Thunder,
+24,11/04/2020 20:30,Staples Center,LA Clippers,Golden State Warriors,
+24,11/04/2020 21:00,Pepsi Center,Denver Nuggets,Sacramento Kings,
+24,11/04/2020 22:00,Talking Stick Resort Arena,Phoenix Suns,Utah Jazz,
+24,12/04/2020 15:30,AT&T Center,San Antonio Spurs,Houston Rockets,
+24,12/04/2020 18:00,Scotiabank Arena,Toronto Raptors,New York Knicks,
+24,12/04/2020 19:00,Fiserv Forum,Milwaukee Bucks,Atlanta Hawks,
+24,12/04/2020 21:30,Staples Center,Los Angeles Lakers,Minnesota Timberwolves,
+24,13/04/2020 19:00,Spectrum Center,Charlotte Hornets,Miami Heat,
+24,13/04/2020 19:00,Rocket Mortgage FieldHouse,Cleveland Cavaliers,Brooklyn Nets,
+24,13/04/2020 19:00,Little Caesars Arena,Detroit Pistons,Boston Celtics,
+24,13/04/2020 19:00,Bankers Life Fieldhouse,Indiana Pacers,San Antonio Spurs,
+24,13/04/2020 20:00,United Center,Chicago Bulls,Orlando Magic,
+24,13/04/2020 20:00,Toyota Center,Houston Rockets,Phoenix Suns,
+24,13/04/2020 20:00,FedExForum,Memphis Grizzlies,Philadelphia 76ers,
+24,13/04/2020 20:00,Smoothie King Center,New Orleans Pelicans,Washington Wizards,
+24,13/04/2020 20:00,Chesapeake Energy Arena,Oklahoma City Thunder,Utah Jazz,
+24,13/04/2020 21:00,Pepsi Center,Denver Nuggets,Dallas Mavericks,
+24,13/04/2020 22:30,Chase Center,Golden State Warriors,Portland Trail Blazers,
+24,13/04/2020 22:30,Staples Center,LA Clippers,Minnesota Timberwolves,
+24,14/04/2020 19:30,AmericanAirlines Arena,Miami Heat,Toronto Raptors,
+24,14/04/2020 19:30,Madison Square Garden,New York Knicks,Detroit Pistons,
+24,14/04/2020 22:00,Vivint Smart Home Arena,Utah Jazz,Denver Nuggets,
+24,14/04/2020 22:30,Staples Center,Los Angeles Lakers,Sacramento Kings,
+24,15/04/2020 19:30,State Farm Arena,Atlanta Hawks,Cleveland Cavaliers,
+24,15/04/2020 19:30,TD Garden,Boston Celtics,Chicago Bulls,
+24,15/04/2020 19:30,Barclays Center,Brooklyn Nets,Milwaukee Bucks,
+24,15/04/2020 19:30,Amway Center,Orlando Magic,Toronto Raptors,
+24,15/04/2020 19:30,Wells Fargo Center,Philadelphia 76ers,Charlotte Hornets,
+24,15/04/2020 19:30,Capital One Arena,Washington Wizards,Indiana Pacers,
+24,15/04/2020 19:30,American Airlines Center,Dallas Mavericks,Oklahoma City Thunder,
+24,15/04/2020 19:30,Toyota Center,Houston Rockets,Memphis Grizzlies,
+24,15/04/2020 19:30,Target Center,Minnesota Timberwolves,New York Knicks,
+24,15/04/2020 19:30,AT&T Center,San Antonio Spurs,New Orleans Pelicans,
+24,15/04/2020 22:00,Talking Stick Resort Arena,Phoenix Suns,Los Angeles Lakers,
+24,15/04/2020 22:00,Moda Center,Portland Trail Blazers,LA Clippers,
+24,15/04/2020 22:00,Golden 1 Center,Sacramento Kings,Golden State Warriors,
