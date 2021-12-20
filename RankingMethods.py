@@ -360,7 +360,7 @@ def od_for_a_season(dataset):
         d = np.array([1.0]*n).reshape(n,1)
         old_d = np.array([0.9]*n).reshape(n,1)
         k = 1
-        while k < 1000 and np.allclose(old_d,d) is False:
+        while k < 10 and np.allclose(old_d,d) is False: #k used to be less than 1000 but this produces rankings that are too high. extreme outlier
             old_d = d
             o = np.transpose(A).dot(np.reciprocal(old_d))
             d = A.dot(np.reciprocal(o))
@@ -484,9 +484,7 @@ def do_seasonal_ranking(data, type_ = 'All'):
     markov2 = markov_for_a_season(data,2)
     #print(markov2)
     markov3 = markov_for_a_season(data,3)
-    #print(markov3[['Away Team','markov_away_rating1', 'markov_away_rating2','markov_away_rating3']])
-    #markov3.to_csv('Ranking/' + type_ + ' ' + str(year-1) + '-' + str(year) + '.csv')
-    #print(markov3.columns)
+    #print(markov3)
     return markov3
 
 def do_timed_ranking(data, type_ = 'All'):

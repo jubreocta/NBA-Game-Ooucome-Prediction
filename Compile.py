@@ -1,6 +1,7 @@
 #standard Libraries
 
 import pandas as pd
+pd.set_option('expand_frame_repr', False)
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
 import numpy as np
@@ -22,7 +23,7 @@ from FurtherAnalysis import availability_analysis, data_to_plot
 
 ###################################################
 ###################################################
-#0) Seasonal Ranking - Commented out as better result was found
+#0) Seasonal Ranking - Uncomment this to repopulate the 30TeamsSeasonalRankings folder
 ###################################################
 ###################################################
 '''
@@ -35,6 +36,8 @@ for file in os.listdir(DATA_PATH):
         print(file)
         dataset = load_data(DATA_PATH + '/' + file)
         dataset = do_seasonal_ranking(dataset)
+        season = file.split(".")[0]
+        dataset.to_csv('.30TeamsSeasonalRankings/'+season+'.csv', index = False)
         rank_votings[file[:-4]] = do_rankings_vote(dataset)
 ranks_voting = pd.DataFrame.from_dict(rank_votings)
 ranks_voting['Type'] = ['DataPoints', 'WinPercentage',
@@ -43,6 +46,7 @@ ranks_voting['Type'] = ['DataPoints', 'WinPercentage',
                         'ODOverall', 'ODOffensive', 'ODDeffensive',
                         'Markov1', 'Markov2', 'Markov3']
 ranks_voting.to_csv('Results/RankVotings.csv', index = False)
+exit()
 '''
 ###################################################
 ###################################################
@@ -71,7 +75,7 @@ ranks_voting.to_csv('Results/RankVotingsAvoidColdStart.csv', index = False)
 '''
 ###################################################
 ###################################################
-#2) Avoiding Cold Start/ Using only Previous season
+#2) Avoiding Cold Start/ Using only Previous season - Uncomment to repopulate PreviousSeasonRankings folder
 ###################################################
 ###################################################
 '''
@@ -94,7 +98,7 @@ for folder in directory_list:
         dataset = do_seasonal_ranking(dataset)
         season = os.listdir(MASTER_DATA_PATH + '/' + folder)[-1][:-4]
         dataset = dataset[dataset.Season == season]
-        dataset.to_csv('PreviousSeasonRankings/'+season+'.csv', index = False)
+        dataset.to_csv('.PreviousSeasonRankings/'+season+'.csv', index = False)
         rank_votings[season] = do_rankings_vote(dataset)
 ranks_voting = pd.DataFrame.from_dict(rank_votings)
 ranks_voting['Type'] = ['DataPoints', 'WinPercentage',
@@ -103,6 +107,7 @@ ranks_voting['Type'] = ['DataPoints', 'WinPercentage',
                         'ODOverall', 'ODOffensive', 'ODDeffensive',
                         'Markov1', 'Markov2', 'Markov3']
 ranks_voting.to_csv('Results/RankVotingsPreviousSeason.csv', index = False)
+exit()
 '''
 ###################################################
 ###################################################
@@ -182,14 +187,14 @@ columns =  ['home_win_percentage', 'away_win_percentage',
             'markov_home_rating2', 'markov_away_rating2',
             'markov_home_rating3', 'markov_away_rating3']
 
-DATA_PATH = '30TeamsSeasonalRankings'
-pattern = 'All 20[0-9][0-9]-20[0-9][0-9]'
+DATA_PATH = '.30TeamsSeasonalRankings'
+pattern = '20[0-9][0-9]-20[0-9][0-9]'
 datasetS = merge_data(DATA_PATH, pattern)
 Y = actual_result(datasetS)#ranking for a season
 datasetS = datasetS[columns]
 datasetS.columns = datasetS.columns+'S'
 ###################################################
-DATA_PATH = 'PreviousSeasonRankings'
+DATA_PATH = '.PreviousSeasonRankings'
 pattern = '20[0-9][0-9]-20[0-9][0-9]'
 datasetP = merge_data(DATA_PATH, pattern)
 Y2 = actual_result(datasetP)
@@ -197,13 +202,12 @@ datasetP = datasetP[columns]
 datasetP.columns = datasetP.columns+'P'
 dataset = pd.concat([datasetS, datasetP], axis=1)
 
-
 ###################################################
 ###################################################
 #5a) Feature Exploration
 ###################################################
 ###################################################
-'''
+
 #Describe
 describe = dataset.describe().T
 describe = describe.round(2)
@@ -222,7 +226,6 @@ plt.xlabel('column number')
 plt.ylabel('column number')
 plt.colorbar()
 plt.show()
-'''
 ###################################################
 ###################################################
 #5b) Feature Extraction--all results are saved to csv andbest models incoperated into modelling
@@ -283,7 +286,7 @@ ewma = return_ewma_column(datasetF, 7)
 ewma = return_ewma_column(datasetF, 28)
 ewma = back2back(datasetF)
 ewma.to_csv('Data/AllEWMAandSeasons.csv', index = False)
-'''
+
 
 emea_and_season_data = pd.read_csv('Data/AllEWMAandSeasons.csv')
 dataset['home_ewma7'] = emea_and_season_data.home_ewma7
@@ -323,13 +326,13 @@ AllPreviousSeasons = AllPreviousSeasons.sort_values('Av', ascending = False)
 print(AllPreviousSeasons.head())
 
 #rolling averages plot
-'''
+
 rolling_avg = data_to_plot(dataset, '3PreviousSeasons')
 rolling_avg.to_csv('Results/RollingAvg3PreviousSeasons.csv')
 
 rolling_avg = data_to_plot(dataset, 'AllPreviousSeasons')
 rolling_avg.to_csv('Results/RollingAvgAllPreviousSeasons.csv')
-'''
+
 ###################################################
 ###################################################
 #Surprise analysis
@@ -337,3 +340,4 @@ rolling_avg.to_csv('Results/RollingAvgAllPreviousSeasons.csv')
 ###################################################
 availability_analysis(dataset, 10, '3PreviousSeasons')
 availability_analysis(dataset, 10, 'AllPreviousSeasons')
+'''

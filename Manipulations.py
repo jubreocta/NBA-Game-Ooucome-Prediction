@@ -2,7 +2,7 @@ import pandas as pd
 import os
 import re
 def home_away_different_teams(dataset):
-    '''creates different team name tages for the home and away teams in a dataset
+    '''creates different team name tags for the home and away teams in a dataset
     '''
     dataset['Home Team'] = 'Home ' + dataset['Home Team']
     dataset['Away Team'] = 'Away ' + dataset['Away Team']
