@@ -215,7 +215,7 @@ def SelectKBest_(predictors_dataset, Y):
         scores = (pipe['select_best_chi'].scores_,
                                         pipe['select_best_chi'].pvalues_)
         scores = [(i, round(scores[0][i], 4), round(scores[1][i],4)) for i in range(len(scores[0]))]
-        #print(sorted(scores, key = lambda x:x[1], reverse = True))
+        print(sorted(scores, key = lambda x:x[1], reverse = True))
 
         for bool_, feature in zip(mask, range(len(predictors_dataset.columns))):
             if bool_:

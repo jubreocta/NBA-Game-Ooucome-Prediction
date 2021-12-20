@@ -1,5 +1,5 @@
 #standard Libraries
-
+import copy
 import pandas as pd
 pd.set_option('expand_frame_repr', False)
 pd.set_option('display.max_rows', 500)
@@ -207,7 +207,7 @@ dataset = pd.concat([datasetS, datasetP], axis=1)
 #5a) Feature Exploration
 ###################################################
 ###################################################
-
+'''
 #Describe
 describe = dataset.describe().T
 describe = describe.round(2)
@@ -226,11 +226,32 @@ plt.xlabel('column number')
 plt.ylabel('column number')
 plt.colorbar()
 plt.show()
+'''
+###################################################
+###################################################
+#Late Addition Dec 2021) Remodelling dataset to containg double the number of features
+###################################################
+###################################################
+#home/away becomes H/A
+datasetHA = copy.deepcopy(dataset)
+datasetHA.columns = [column_name.replace('home', 'H').replace("away","A") for column_name in datasetHA]
+datasetHA["IsHomeTeamH"] = 1
+#home/away becomes A/H
+datasetAH = copy.deepcopy(dataset)
+datasetAH.columns = [column_name.replace('home', 'A').replace("away","H") for column_name in datasetAH]
+datasetAH["IsHomeTeamH"] = 0
+
+dataset = datasetHA.append(datasetAH)
+Y = np.append(Y,1-Y) #flip result for features where home and away is swapped
 ###################################################
 ###################################################
 #5b) Feature Extraction--all results are saved to csv andbest models incoperated into modelling
 ###################################################
 ###################################################
+SelectKBest_ = SelectKBest_(dataset, Y)
+columns = ['Columns', 'Feature Count', 'Mean', 'SD']
+SelectKBest_ = pd.DataFrame.from_records(SelectKBest_, columns = columns)
+SelectKBest_.to_csv('Results/SelectKBest.csv', index = False)
 '''
 print(len(dataset))
 #5ba) logistic regression brute force
