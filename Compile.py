@@ -249,7 +249,7 @@ Y = np.append(Y,1-Y) #flip result for features where home and away is swapped
 ###################################################
 ###################################################
 SelectKBest_ = SelectKBest_(dataset, Y)
-columns = ['Columns', 'Feature Count', 'Mean', 'SD']
+columns = ['Columns', 'Feature Count', 'Mean', 'SD', 'Time']
 SelectKBest_ = pd.DataFrame.from_records(SelectKBest_, columns = columns)
 SelectKBest_.to_csv('Results/SelectKBest.csv', index = False)
 '''

@@ -1,4 +1,5 @@
 import numpy as np
+import time
 import itertools
 import copy
 import matplotlib.pyplot as plt
@@ -196,6 +197,8 @@ def brute_force_lr(predictors_dataset, Y):
 def SelectKBest_(predictors_dataset, Y):
     '''uses the sklearn selectkbest to iteratively select the best
     feature combination for each number of features '''
+    start_time = time.time()
+    highest_accuracy = 0
     best=[]
     for index in range(1, len(predictors_dataset.columns)+1):
         print(index)
@@ -210,18 +213,16 @@ def SelectKBest_(predictors_dataset, Y):
         X = np.nan_to_num(X)
         pipe.fit(X, Y)
         results = cross_val_score(pipe, X, Y, cv=kfold, scoring=scoring)
-        mask = pipe['select_best_chi'].get_support() #list of booleans
-        new_features = [] # The list of your K best features
-        scores = (pipe['select_best_chi'].scores_,
-                                        pipe['select_best_chi'].pvalues_)
-        scores = [(i, round(scores[0][i], 4), round(scores[1][i],4)) for i in range(len(scores[0]))]
-        #print(sorted(scores, key = lambda x:x[1], reverse = True))
-
-        for bool_, feature in zip(mask, range(len(predictors_dataset.columns))):
-            if bool_:
-                new_features.append(feature)
-        best.append((new_features, index, results.mean(), results.std()))
-    best = sorted(best, key = lambda x:x[2], reverse = True)
+        #get only improvements on previous results for time monitoring
+        if results.mean() > highest_accuracy:
+            time_diff = time.time() - start_time
+            highest_accuracy = results.mean()
+            mask = pipe['select_best_chi'].get_support() #list of booleans
+            new_features = [] # The list of your K best features
+            for bool_, feature in zip(mask, range(len(predictors_dataset.columns))):
+                if bool_:
+                    new_features.append(feature)
+            best.append((new_features, index, results.mean(), results.std(), time_diff))
     return best
 
 
