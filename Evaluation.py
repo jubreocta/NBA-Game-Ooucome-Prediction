@@ -298,6 +298,8 @@ def SequentialBackwardSelection(predictors_dataset, Y):
 def PCA_(predictors_dataset, Y):
     '''uses the sklearn PCA to iteratively select the best
     feature combination for each number of principal components '''
+    start_time = time.time()
+    highest_accuracy = 0
     best=[]
     for index in range(1, len(predictors_dataset.columns)+1):
         print(index)
@@ -312,11 +314,13 @@ def PCA_(predictors_dataset, Y):
         X = np.nan_to_num(X)
         pipe.fit(X,Y)
         results = cross_val_score(pipe, X, Y, cv=kfold, scoring=scoring)
-        best.append((index,results.mean(), results.std()))
-        #print(index,results.mean(), results.std())
-    print(pipe['PCA'].explained_variance_ratio_)
+        if results.mean() > highest_accuracy:
+            time_diff = time.time() - start_time
+            highest_accuracy = results.mean()
+            best.append((index,results.mean(), results.std(), time_diff))
+    #print(pipe['PCA'].explained_variance_ratio_)
     cumsum = np.cumsum(pipe['PCA'].explained_variance_ratio_)
-    print(cumsum)
+    #print(cumsum)
     plt.xticks(ticks = range(0,46,4), labels = range(1,47,4))
     plt.xlabel('number of components', size = 10)
     plt.ylabel('cummulative explained variance', size = 10)
@@ -328,7 +332,6 @@ def PCA_(predictors_dataset, Y):
         elif i in [8, 12, 16, 30]:
             plt.text(i, v-0.025, "%.2f" % v, ha="center", size = 8)
     plt.show()
-    best = sorted(best, key = lambda x:x[1], reverse = True)
     return best
 
 def MasterModel(dataset, how):
