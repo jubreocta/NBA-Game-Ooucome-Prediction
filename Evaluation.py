@@ -228,6 +228,8 @@ def SelectKBest_(predictors_dataset, Y):
 
 def SequentialForwardSelection(predictors_dataset, Y):
     '''implements the greedy search algorithm sequential forward selection'''
+    start_time = time.time()
+    highest_accuracy = 0
     best = []
     initial_features = predictors_dataset.columns.tolist()
     best_features = []
@@ -249,21 +251,24 @@ def SequentialForwardSelection(predictors_dataset, Y):
             X = np.nan_to_num(X)
             pipe.fit(X, Y)
             results = cross_val_score(pipe, X, Y, cv=kfold, scoring=scoring)
-            check.append((feat, results.mean()))
             if results.mean() > mean:
+                time_diff = time.time() - start_time
                 mean = results.mean()
                 stdev = results.std()
                 new_best = new_column
         best_features.append(new_best)
         column_index = sorted([initial_features.index(i) for i in best_features])
-        best.append((column_index, count+1, mean, stdev))
-    best = sorted(best, key = lambda x: x[2], reverse = True)
+        if mean > highest_accuracy:
+            highest_accuracy = mean
+            best.append((column_index, count, mean, stdev, time_diff))
     return best
 
 
 
 def SequentialBackwardSelection(predictors_dataset, Y):
     '''implements the greedy search algorithm sequential backward selection'''
+    start_time = time.time()
+    highest_accuracy = 0
     best = []
     initial_features = predictors_dataset.columns.tolist()
     best_features = predictors_dataset.columns.tolist()
@@ -286,13 +291,15 @@ def SequentialBackwardSelection(predictors_dataset, Y):
             pipe.fit(X, Y)
             results = cross_val_score(pipe, X, Y, cv=kfold, scoring=scoring)
             if results.mean() > mean:
+                time_diff = time.time() - start_time
                 mean = results.mean()
                 stdev = results.std()
                 new_best = feat
         best_features = new_best
         column_index = sorted([initial_features.index(i) for i in best_features])
-        best.append((column_index, count, mean, stdev))
-    best = sorted(best, key = lambda x: x[2], reverse = True)
+        if mean > highest_accuracy:
+            highest_accuracy = mean
+            best.append((column_index, count, mean, stdev, time_diff))
     return best
 
 def PCA_(predictors_dataset, Y):
