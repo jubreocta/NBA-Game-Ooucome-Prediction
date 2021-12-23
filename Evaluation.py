@@ -245,7 +245,7 @@ def SequentialForwardSelection(predictors_dataset, Y):
             estimators_LR.append(('rescale', MinMaxScaler()))
             estimators_LR.append(('LR_sag', LogisticRegression(max_iter = 10000)))
             pipe = Pipeline(estimators_LR)
-            kfold = KFold(n_splits=10)
+            kfold = KFold(n_splits=10, shuffle = True, random_state=222)
             scoring = 'accuracy'
             X = predictors_dataset[feat].values
             X = np.nan_to_num(X)
@@ -284,7 +284,7 @@ def SequentialBackwardSelection(predictors_dataset, Y):
             estimators_LR.append(('rescale', MinMaxScaler()))
             estimators_LR.append(('LR_sag', LogisticRegression(max_iter = 10000)))
             pipe = Pipeline(estimators_LR)
-            kfold = KFold(n_splits=10)
+            kfold = KFold(n_splits=10, shuffle = True, random_state=222)
             scoring = 'accuracy'
             X = predictors_dataset[feat].values
             X = np.nan_to_num(X)
@@ -315,7 +315,7 @@ def PCA_(predictors_dataset, Y):
         estimators_LR.append(('PCA',  PCA(n_components=index)))
         estimators_LR.append(('LR_sag', LogisticRegression(max_iter = 10000)))
         pipe = Pipeline(estimators_LR)
-        kfold = KFold(n_splits=10)
+        kfold = KFold(n_splits=10, shuffle = True, random_state=222)
         scoring = 'accuracy'
         X = predictors_dataset.values
         X = np.nan_to_num(X)

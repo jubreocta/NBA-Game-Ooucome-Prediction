@@ -248,10 +248,10 @@ Y = np.append(Y,1-Y) #flip result for features where home and away is swapped
 #5b) Feature Extraction--all results are saved to csv andbest models incoperated into modelling
 ###################################################
 ###################################################
-SequentialForwardSelection = SequentialForwardSelection(dataset, Y)
+SequentialBackwardSelection = SequentialBackwardSelection(dataset, Y)
 columns = ['Columns', 'Feature Count', 'Mean', 'SD', 'Time']
-SequentialForwardSelection = pd.DataFrame.from_records(SequentialForwardSelection, columns = columns)
-SequentialForwardSelection.to_csv('Results/SequentialForwardSelection.csv', index = False)
+SequentialBackwardSelection = pd.DataFrame.from_records(SequentialBackwardSelection, columns = columns)
+SequentialBackwardSelection.to_csv('Results/SequentialBackwardSelection.csv', index = False)
 '''
 #5ba) SelectKBest
 print('SelectKBest')
@@ -270,7 +270,7 @@ PCA_.to_csv('Results/PCA_.csv', index = False)
 #5bc) SequentialForwardSelection
 print('SequentialForwardSelection')
 SequentialForwardSelection = SequentialForwardSelection(dataset, Y)
-columns = ['Columns', 'Feature Count', 'Mean', 'SD']
+columns = ['Columns', 'Feature Count', 'Mean', 'SD', 'Time']
 SequentialForwardSelection = pd.DataFrame.from_records(SequentialForwardSelection, columns = columns)
 SequentialForwardSelection.to_csv('Results/SequentialForwardSelection.csv', index = False)
 
