@@ -20,7 +20,7 @@ from Evaluation import do_rankings_vote, do_timed_vote, actual_result, brute_for
 from Evaluation import SelectKBest_, SequentialForwardSelection
 from Evaluation import SequentialBackwardSelection, PCA_, MasterModel
 from FurtherAnalysis import availability_analysis, data_to_plot
-
+from GeneticAlgorithm import genetic_algorithm
 ###################################################
 ###################################################
 #0) Seasonal Ranking - Uncomment this to repopulate the 30TeamsSeasonalRankings folder
@@ -248,6 +248,10 @@ Y = np.append(Y,1-Y) #flip result for features where home and away is swapped
 #5b) Feature Extraction--all results are saved to csv andbest models incoperated into modelling
 ###################################################
 ###################################################
+GA = genetic_algorithm(dataset, Y)
+columns = ['Columns', 'Feature Count', 'Mean', 'Time']
+GA = pd.DataFrame.from_records(GA, columns = columns)
+GA.to_csv('Results/GeneticAlgorithm.csv', index = False)
 
 '''
 #5ba) SelectKBest
