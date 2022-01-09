@@ -140,59 +140,54 @@ def do_timed_vote(dataset,type_ = 'all'):
 
 def brute_force_lr(predictors_dataset, Y):
     '''implements the exhaustive search for the best feature combination.'''
-    best=[('a',0,0,0)]*20
+    start_time = time.time()
+    highest_accuracy = 0
+    best=[]
+    initial_features = predictors_dataset.columns.tolist()
     estimators_LR = []
     estimators_LR.append(('rescale', MinMaxScaler()))
     estimators_LR.append(('LR_sag', LogisticRegression(max_iter = 10000)))
     pipe = Pipeline(estimators_LR)
-    kfold = KFold(n_splits=10)
+    kfold = KFold(n_splits=10, shuffle = True, random_state=222)
     scoring = 'accuracy'
-    start_column = 'a'
-    '''
-    for index in range(43, len(predictors_dataset.columns)):
+    #we need atleast 1 column to fit ordered to handle random cases first before brute force
+    alist = list(range(4, len(predictors_dataset.columns)-4))
+    alist.extend(range(1, 4))
+    alist.extend(range(len(predictors_dataset.columns)-4, len(predictors_dataset.columns) + 1))
+    for index in alist:
         print(index)
-        if index<6 or index>39:
+        if index<4 or index>42:
             for combination in itertools.combinations(predictors_dataset.columns, index):
                 columns = [i for i in combination]
                 data = predictors_dataset[columns]
                 X = data.values
                 X = np.nan_to_num(X)
                 results = cross_val_score(pipe, X, Y, cv=kfold, scoring=scoring)
-                if results.mean() > best[-1][2]:
-                    best[-1] = (combination, index, results.mean(), results.std())
-                    best = sorted(best, key = lambda x:x[2], reverse = True)
-                    with open('bruteforce.txt', 'w') as top20:
+                if results.mean() > highest_accuracy:
+                    time_diff = time.time() - start_time
+                    highest_accuracy = results.mean()
+                    column_index = sorted([initial_features.index(i) for i in combination])
+                    best.append((column_index, index, results.mean(), results.std(), time_diff))
+                    with open('brute force monitoring.txt', 'w') as file:
                         for value in best:
-                            top20.write(str(value)+'\n')
+                            file.write(str(value)+'\n')
         else:
-            for number in range(20000):
-                if number%100 == 0:
-                    print(number)
+            for number in range(5000):
                 combination = r.sample(predictors_dataset.columns.tolist(), index)
                 data = predictors_dataset[combination]
                 X = data.values
                 X = np.nan_to_num(X)
                 results = cross_val_score(pipe, X, Y, cv=kfold, scoring=scoring)
-                if results.mean() > best[-1][2]:
-                    best[-1] = (combination, index, results.mean(), results.std())
-                    best = sorted(best, key = lambda x:x[2], reverse = True)
-                    with open('bruteforce.txt', 'w') as top20:
+                if results.mean() > highest_accuracy:
+                    time_diff = time.time() - start_time
+                    highest_accuracy = results.mean()
+                    column_index = sorted([initial_features.index(i) for i in combination])
+                    best.append((column_index, index, results.mean(), results.std(), time_diff))
+                    with open('brute force monitoring.txt', 'w') as file:
                         for value in best:
-                            top20.write(str(value)+'\n')
-    '''
-    #pulling from a text file because this process takes long and
-    #there is no time to wait to the end
-    #we simply grab the best so far to move on
-    best_to_return = []
-    column_names = predictors_dataset.columns.to_list()
-    with open('bruteforce.txt', 'r') as top20:
-        for line in top20:
-            new_features = line.strip().split("'],")[0].split("', '")
-            new_features = [column_names.index(i) for i in new_features]
-            new_features = sorted(new_features)
-            index = line.strip().split("'],")[1].strip().split(", ")
-            best_to_return.append((new_features, index[0], index[1], index[2]))
-    return best_to_return
+                            file.write(str(value)+'\n')
+
+    return best
                             
 def SelectKBest_(predictors_dataset, Y):
     '''uses the sklearn selectkbest to iteratively select the best
