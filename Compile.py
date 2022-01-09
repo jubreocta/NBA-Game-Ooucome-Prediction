@@ -248,10 +248,7 @@ Y = np.append(Y,1-Y) #flip result for features where home and away is swapped
 #5b) Feature Extraction--all results are saved to csv andbest models incoperated into modelling
 ###################################################
 ###################################################
-brute_force_lr = brute_force_lr(dataset, Y)
-columns = ['Columns', 'Feature Count', 'Mean', 'SD', 'Time']
-brute_force_lr = pd.DataFrame.from_records(brute_force_lr, columns = columns)
-brute_force_lr.to_csv('Results/brute_force_lr.csv', index = False)
+
 '''
 #5ba) SelectKBest
 print('SelectKBest')
@@ -284,7 +281,7 @@ SequentialBackwardSelection.to_csv('Results/SequentialBackwardSelection.csv', in
 #5be) logistic regression brute force
 print('logistic regression brute force')
 brute_force_lr = brute_force_lr(dataset, Y)
-columns = ['Columns', 'Feature Count', 'Mean', 'SD']
+columns = ['Columns', 'Feature Count', 'Mean', 'SD', 'Time']
 brute_force_lr = pd.DataFrame.from_records(brute_force_lr, columns = columns)
 brute_force_lr.to_csv('Results/brute_force_lr.csv', index = False)
 '''
