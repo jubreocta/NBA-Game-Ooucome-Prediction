@@ -62,9 +62,9 @@ def genetic_algorithm(predictors_dataset, Y):
     start_time = time.time()
     highest_accuracy = 0
     best = []
-    N_in_generation = 10
+    N_in_generation = 50
     current_generation = 0
-    N_of_generations = 10
+    N_of_generations = 250
     no_of_columns = len(predictors_dataset.columns)
     alpha_population = [np.random.choice([0, 1], size=no_of_columns) for i in range(N_in_generation)]
 
