@@ -229,38 +229,17 @@ plt.show()
 '''
 ###################################################
 ###################################################
-#Late Addition Dec 2021) Remodelling dataset to containg double the number of features
-###################################################
-###################################################
-#home/away becomes H/A
-datasetHA = copy.deepcopy(dataset)
-datasetHA.columns = [column_name.replace('home', 'H').replace("away","A") for column_name in datasetHA]
-datasetHA["IsHomeTeamH"] = 1
-#home/away becomes A/H
-datasetAH = copy.deepcopy(dataset)
-datasetAH.columns = [column_name.replace('home', 'A').replace("away","H") for column_name in datasetAH]
-datasetAH["IsHomeTeamH"] = 0
-
-dataset = datasetHA.append(datasetAH)
-Y = np.append(Y,1-Y) #flip result for features where home and away is swapped
-###################################################
-###################################################
 #5b) Feature Extraction--all results are saved to csv andbest models incoperated into modelling
 ###################################################
 ###################################################
-GA = genetic_algorithm(dataset, Y)
-columns = ['Columns', 'Feature Count', 'Mean', 'Time']
-GA = pd.DataFrame.from_records(GA, columns = columns)
-GA.to_csv('Results/GeneticAlgorithm.csv', index = False)
 
-'''
 #5ba) SelectKBest
 print('SelectKBest')
 SelectKBest_ = SelectKBest_(dataset, Y)
 columns = ['Columns', 'Feature Count', 'Mean', 'SD', 'Time']
 SelectKBest_ = pd.DataFrame.from_records(SelectKBest_, columns = columns)
 SelectKBest_.to_csv('Results/SelectKBest.csv', index = False)
-
+'''
 #5bb) PCA
 print('PCA')
 PCA_ = PCA_(dataset, Y)
@@ -288,6 +267,12 @@ brute_force_lr = brute_force_lr(dataset, Y)
 columns = ['Columns', 'Feature Count', 'Mean', 'SD', 'Time']
 brute_force_lr = pd.DataFrame.from_records(brute_force_lr, columns = columns)
 brute_force_lr.to_csv('Results/brute_force_lr.csv', index = False)
+
+#5bf) genetic algorithm
+GA = genetic_algorithm(dataset, Y)
+columns = ['Columns', 'Feature Count', 'Mean', 'Time']
+GA = pd.DataFrame.from_records(GA, columns = columns)
+GA.to_csv('Results/GeneticAlgorithm.csv', index = False)
 '''
 ###################################################
 ###################################################
