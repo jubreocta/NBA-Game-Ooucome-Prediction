@@ -27,7 +27,7 @@ from GeneticAlgorithm import genetic_algorithm
 ###################################################
 ###################################################
 '''
-print('#0) Seasonal Ranking - Commented out as better result was found')
+print('#0) Seasonal Ranking - A season by season ranking that treats each season as separate')
 pattern = re.compile(r'20[0-9][0-9]-20[0-9][0-9]')
 DATA_PATH = 'Data/1 Season'
 rank_votings = dict()
@@ -232,14 +232,20 @@ plt.show()
 #5b) Feature Extraction--all results are saved to csv andbest models incoperated into modelling
 ###################################################
 ###################################################
-
+#5be) logistic regression brute force
+print('logistic regression brute force')
+brute_force_lr = brute_force_lr(dataset, Y)
+columns = ['Columns', 'Feature Count', 'Mean', 'SD', 'Time']
+brute_force_lr = pd.DataFrame.from_records(brute_force_lr, columns = columns)
+brute_force_lr.to_csv('Results/brute_force_lr.csv', index = False)
+'''
 #5ba) SelectKBest
 print('SelectKBest')
 SelectKBest_ = SelectKBest_(dataset, Y)
 columns = ['Columns', 'Feature Count', 'Mean', 'SD', 'Time']
 SelectKBest_ = pd.DataFrame.from_records(SelectKBest_, columns = columns)
 SelectKBest_.to_csv('Results/SelectKBest.csv', index = False)
-'''
+
 #5bb) PCA
 print('PCA')
 PCA_ = PCA_(dataset, Y)
